@@ -1,0 +1,12 @@
+
+<h2> all </h2>
+
+{%- for post in collections.all -%}
+  {{ post.data.name.sv }}
+{%- endfor -%}
+
+<h2> fackförbund </h2>
+
+{%- for post in collections.fackförbund -%}
+  {{ post.data.name.sv }}
+{%- endfor -%}
