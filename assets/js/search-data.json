@@ -1,0 +1,72 @@
+{"0": {
+    "doc": "Getting Started",
+    "title": "Getting Started",
+    "content": " ",
+    "url": "/getting-started.html",
+    
+    "relUrl": "/getting-started.html"
+  },"1": {
+    "doc": "Getting Started",
+    "title": "Table of contents",
+    "content": ". | Clone the repo | Install rbenv | Run bundle install | Install yarn | Run yarn install | Run database migrations | Start Rails server | Open in browser | . The site runs on Rails using SQLite as its database, so getting it working locally on your computer entails getting one Ruby process running correctly. This document assumes you have some software engineering background knowledge and access to a computer that you’ve already set up with common developer tools such as a terminal and text editor which you know how to use. ",
+    "url": "/getting-started.html#table-of-contents",
+    
+    "relUrl": "/getting-started.html#table-of-contents"
+  },"2": {
+    "doc": "Getting Started",
+    "title": "Clone the repo",
+    "content": "git clone git@github.com:kollektivavtal/kollektivavtal.nu.git . It doesn’t matter where specifically in your computer’s directory structure you put your clone. This document assumes it’s in the top level of your home directory, where it’s accessible as ~/kollektivavtal.nu. ",
+    "url": "/getting-started.html#clone-the-repo",
+    
+    "relUrl": "/getting-started.html#clone-the-repo"
+  },"3": {
+    "doc": "Getting Started",
+    "title": "Install rbenv",
+    "content": "There’s a .ruby-version file in the root of the git repository which contains the version of Ruby that the app runs on. You should install rbenv, which is a tool that can read from that file and then install the right version of Ruby onto your computer. brew install rbenv rbenv init . Once rbenv is set up, you run rbenv install from inside your local clone of the kollektivavtal.nu repo to install the correct Ruby version. cd ~/kollektivavtal.nu rbenv install . ",
+    "url": "/getting-started.html#install-rbenv",
+    
+    "relUrl": "/getting-started.html#install-rbenv"
+  },"4": {
+    "doc": "Getting Started",
+    "title": "Run bundle install",
+    "content": "The site depends on a whole bunch of open source code that’s packaged as Ruby gems, which are similar to npm packages. You need to download that code onto your computer before you can run it. bundle install . ",
+    "url": "/getting-started.html#run-bundle-install",
+    
+    "relUrl": "/getting-started.html#run-bundle-install"
+  },"5": {
+    "doc": "Getting Started",
+    "title": "Install yarn",
+    "content": "While the back end is built in Ruby, some of the site’s front end assets are produced using tools from the npm ecosystem. So we need yarn installed on your computer in order to download those tools. npm install -g yarn . If you don’t already have Node and npm installed on your computer, you’ll have to take care of that first too. ",
+    "url": "/getting-started.html#install-yarn",
+    
+    "relUrl": "/getting-started.html#install-yarn"
+  },"6": {
+    "doc": "Getting Started",
+    "title": "Run yarn install",
+    "content": "Once you have yarn working you need to run it once to get the various npm packages installed. yarn install . ",
+    "url": "/getting-started.html#run-yarn-install",
+    
+    "relUrl": "/getting-started.html#run-yarn-install"
+  },"7": {
+    "doc": "Getting Started",
+    "title": "Run database migrations",
+    "content": "This gets your SQLite database (found in storage/development.sqlite3) updated with the correct schema./bin/rake db:migrate . ",
+    "url": "/getting-started.html#run-database-migrations",
+    
+    "relUrl": "/getting-started.html#run-database-migrations"
+  },"8": {
+    "doc": "Getting Started",
+    "title": "Start Rails server",
+    "content": "./bin/dev . ",
+    "url": "/getting-started.html#start-rails-server",
+    
+    "relUrl": "/getting-started.html#start-rails-server"
+  },"9": {
+    "doc": "Getting Started",
+    "title": "Open in browser",
+    "content": "http://localhost:3000/ . ",
+    "url": "/getting-started.html#open-in-browser",
+    
+    "relUrl": "/getting-started.html#open-in-browser"
+  }
+}
