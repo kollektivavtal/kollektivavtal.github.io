@@ -1,5 +1,8 @@
+---
+---
+
 <!doctype html>
-<html lang={{ locale }}>
+<html lang={{ language }}>
 
   <head>
     <meta charset="utf-8">
@@ -14,7 +17,7 @@
     <ol>
       {% for agreement in collections.kollektivavtal %}
         <li>
-          {{ agreement.data.name[locale] }}
+          {{ agreement.data.name[language] }}
         </li>
       {% endfor %}
     </ol>
