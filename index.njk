@@ -1,9 +1,30 @@
 ---
-excludeFromCollections: true
-layout: home
-pagination:
-  alias: language
-  data: languages
-  size: 1
-permalink: "/{{language}}.html"
-----
+years: ["2020"]
+---
+
+<!doctype html>
+<html lang="sv">
+
+  <head>
+    <meta charset="utf-8">
+    <title>Kollektivavtal</title>
+  </head>
+
+  <body>
+
+    <h1>
+      Kollektivavtal
+    </h1>
+
+    <ol>
+      {% for year in years %}
+        <li>
+          <a href="/{{ year }}">
+            {{ year }}
+          </a>
+        </li>
+      {% endfor %}
+    </ol>
+
+  </body>
+</html>
