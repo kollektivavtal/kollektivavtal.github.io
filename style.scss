@@ -62,14 +62,13 @@ header h1 {
 
 table {
   border-collapse: collapse;
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-  padding: 0 1rem;
+  margin: 0 1rem;
   row-gap: 1rem;
 }
 
 table caption {
   font-size: 1.2rem;
   font-weight: bold;
+  margin-bottom: 1rem;
+  width: min-width;
 }
