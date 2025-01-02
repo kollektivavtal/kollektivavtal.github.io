@@ -3,22 +3,27 @@ body {
   margin: 0;
 }
 
-header {
+nav {
   display: flex;
   background-color: #f8f8f8;
   border-bottom: 1px solid #e7e7e7;
   padding: 1rem;
 }
 
-header h1 {
-  line-height: 1rem;
+nav a[href="/"] {
+  color: blue;
+  font-size: 16px;
+  font-weight: bold;
   margin: 0;
   padding: 0;
 }
 
-header a[href="/"] {
-  color: blue;
-  font-size: 16px;
+header {
+  padding: 1rem;
+}
+
+header h1 {
+  font-size: 1.5rem;
   margin: 0;
   padding: 0;
 }
