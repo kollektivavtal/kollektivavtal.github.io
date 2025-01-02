@@ -3,19 +3,51 @@ body {
   margin: 0;
 }
 
-nav {
+nav[aria-label="Navigeringsfältet"] {
   display: flex;
   background-color: #f8f8f8;
   border-bottom: 1px solid #e7e7e7;
   padding: 1rem;
 }
 
-nav a[href] {
+nav[aria-label="Navigeringsfältet"] a[href] {
   color: blue;
   font-size: 16px;
   font-weight: bold;
   margin: 0;
   padding: 0;
+}
+
+nav[aria-label="Brödsmulor"] {
+  background-color: #fff;
+  border-bottom: 1px solid #e7e7e7;
+  padding: 1rem;
+}
+
+nav[aria-label="Brödsmulor"] ol {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav[aria-label="Brödsmulor"] li::after {
+  color: #cecece;
+  content: "/";
+  margin: 0 0.5rem;
+}
+
+nav[aria-label="Brödsmulor"] li:last-child::after {
+  content: "";
+}
+
+nav[aria-label="Brödsmulor"] a[href] {
+  color: blue;
+}
+
+nav[aria-label="Brödsmulor"] li:first-child a[href] {
+  text-decoration: none;
 }
 
 header {
