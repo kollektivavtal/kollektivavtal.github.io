@@ -2,48 +2,33 @@
 years: ["2023", "2020"]
 ---
 
-<!doctype html>
-<html lang="sv">
+{% extends "left-right.njk" %}
 
-  <head>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="/style.css" />
-    <title>Kollektivavtalsarkiv</title>
-  </head>
+{% block left %}
 
-  <body>
+  <header>
+    <h1 class="font-mono text-xl">
+      Kollektivavtalsarkivet
+    </h1>
+  </header>
 
-    <nav aria-label="Navigeringsfältet">
-      <a href="/">
-        Kollektivavtalsarkiv
-      </a>
-    </nav>
+{% endblock %}
 
-    <nav aria-label="Brödsmulor">
-      <ol>
-        <li>
-          <a href="/">
-            🏠
-          </a>
-        </li>
-      </ol>
-    </nav>
-
-    <header>
-      <h1>
-        Kollektivavtalsarkiv
-      </h1>
-    </header>
-
-    <ol>
+{% block right %}
+  <section class="flex flex-col space-y-4">
+    <h2 class="font-mono text-xl">
+      År
+    </h2>
+    <ol class="flex flex-col space-y-2">
       {% for year in years %}
         <li>
-          <a href="/{{ year }}">
+          <a
+            class="text-blue-600 underline"
+            href="/{{ year }}">
             {{ year }}
           </a>
         </li>
       {% endfor %}
     </ol>
-
-  </body>
-</html>
+  </section>
+{% endblock %}
