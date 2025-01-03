@@ -1,3 +1,3 @@
-export default async function(eleventyConfig) {
+export default async function (eleventyConfig) {
   //
 }
