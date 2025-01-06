@@ -1,24 +1,19 @@
 ---
+layout: blank
 years: ["2024", "2023", "2021", "2020", "2017"]
 ---
 
-{% extends "left-right.njk" %}
+{% from "h1.njk" import h1 %}
 
-{% block left %}
-  <header>
-    <h1 class="font-mono text-xl">Kollektivavtalsarkivet</h1>
-  </header>
-{% endblock %}
+{{ h1("Kollektivavtalsarkivet", "", "mb-12") }}
 
-{% block right %}
-  <section class="flex flex-col space-y-4">
-    <h2 class="font-mono text-xl">År</h2>
-    <ol class="flex flex-col space-y-2">
-      {% for year in years %}
-        <li>
-          <a class="text-blue-600 underline" href="/{{ year }}"> {{ year }} </a>
-        </li>
-      {% endfor %}
-    </ol>
-  </section>
-{% endblock %}
+<section class="flex flex-col space-y-4">
+  <h2 class="text-xl font-bold">År</h2>
+  <ol class="flex flex-col space-y-2">
+    {% for year in years %}
+      <li>
+        <a class="text-blue-600 underline" href="/{{ year }}"> {{ year }} </a>
+      </li>
+    {% endfor %}
+  </ol>
+</section>
