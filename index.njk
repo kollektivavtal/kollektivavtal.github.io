@@ -13,10 +13,17 @@ eleventyComputed:
 
 <section class="flex flex-col space-y-4">
   <h2 class="text-xl font-bold">År</h2>
-  <ol class="flex flex-col space-y-2">
-    {% for year in years %}
+  <ol class="flex flex-col space-y-4">
+    {% for year in collections.years %}
       <li>
-        <a class="text-blue-600 underline" href="/{{ year }}"> {{ year }} </a>
+        <div class="flex flex-col">
+          <a class="text-blue-600 underline" href="/{{ year.name }}">
+            {{ year.name }}
+          </a>
+          <span class="max-w-full overflow-hidden text-sm text-gray-700">
+            {{ year.agreementCount }} avtal
+          </span>
+        </div>
       </li>
     {% endfor %}
   </ol>
