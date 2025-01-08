@@ -1,7 +1,8 @@
+const years = ["2024", "2023", "2021", "2020", "2017", "2013"];
 export default async function (eleventyConfig) {
   eleventyConfig.addCollection("years", async function () {
     return Promise.all(
-      ["2024", "2023", "2021", "2020", "2017"].map(async (year) => {
+      years.map(async (year) => {
         const url = `https://kollektivavtal.github.io/${year}/sitemap.xml`;
         const response = await fetch(url);
         const text = await response.text();
