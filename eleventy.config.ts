@@ -1,6 +1,11 @@
 const years = ["2024", "2023", "2022", "2021", "2020", "2017", "2014", "2013"];
 
 export default async function (eleventyConfig) {
+  eleventyConfig.addGlobalData("site", {
+    title: "Kollektivavtalsarkivet",
+    description: "Gillar man kollektivavtal har man kommit rätt.",
+  });
+
   eleventyConfig.addCollection("years", async function () {
     return Promise.all(
       years.map(async (year) => {
