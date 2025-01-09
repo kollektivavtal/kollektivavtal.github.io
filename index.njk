@@ -1,6 +1,8 @@
 ---
 layout: blank
 eleventyComputed:
+  title: "{{ site.title }}"
+  description: "{{ site.description }}"
   breadcrumbs:
     - href: https://kollektivavtal.github.io/
       text: 🏠
@@ -8,7 +10,20 @@ eleventyComputed:
 
 {% from "h1.njk" import h1 %}
 
-{{ h1("Kollektivavtalsarkivet", "", "mb-12") }}
+<div class="mb-8 flex flex-col gap-y-4">
+  {{ h1(site.title, "") }}
+
+  <div class="prose flex flex-col gap-y-2">
+    <p>{{ site.description }}</p>
+
+    <p>
+      Skicka gärna saknade avtal till
+      <a class="text-blue-600 underline" href="mailto:henry@catalinismith.com"
+        >henry@catalinismith.com</a
+      >.
+    </p>
+  </div>
+</div>
 
 <section class="flex flex-col space-y-4">
   <h2 class="text-xl font-bold">År</h2>
