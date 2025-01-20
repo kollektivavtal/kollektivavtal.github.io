@@ -25,6 +25,43 @@ eleventyComputed:
   </div>
 </div>
 
+<section class="mb-16 flex flex-col space-y-4">
+  <h2 class="text-xl font-bold">Senaste Avtal</h2>
+  <table class="">
+    <thead class="sr-only">
+      <tr>
+        <th></th>
+        <th>Namn</th>
+      </tr>
+    </thead>
+
+    <tbody class="flex flex-col space-y-4">
+      {% for agreement in collections.mostRecentAgreements %}
+        <tr>
+          <td>
+            <div class="aspect-[707/1000] shrink-0 border-2 border-slate-200">
+              <img alt="" src="{{ agreement.icon }}" />
+            </div>
+          </td>
+
+          <td>
+            <div class="ml-4 flex flex-col">
+              <a class="text-blue-600 underline" href="{{ agreement.url }}">
+                {{ agreement.title }}
+              </a>
+              <span
+                class="mt-1 max-w-full overflow-hidden text-sm leading-6 text-gray-700"
+              >
+                Tillagd {{ agreement.lastmod.split("T")[0] }}
+              </span>
+            </div>
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+
 <section class="flex flex-col space-y-4">
   <h2 class="text-xl font-bold">År</h2>
   <ol class="flex flex-col space-y-4">
@@ -35,7 +72,7 @@ eleventyComputed:
             {{ year.name }}
           </a>
           <span class="max-w-full overflow-hidden text-sm text-gray-700">
-            {{ year.agreementCount }} avtal
+            {{ year.documents.length }} avtal
           </span>
         </div>
       </li>
