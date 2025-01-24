@@ -47,14 +47,16 @@ export default async function Home() {
       const text = await response.text();
       const parser = new xml2js.Parser();
       const parsedXml = await parser.parseStringPromise(text);
-      const agreements = parsedXml.urlset.url.map((urlItem: any) => {
-        return {
-          year,
-          slug: urlItem.loc[0].split("/").pop(),
-          url: urlItem.loc[0],
-          lastmod: urlItem.lastmod ? urlItem.lastmod[0] : null,
-        };
-      });
+      const agreements = parsedXml.urlset.url.map(
+        (urlItem: { loc: string[]; lastmod: string[] }) => {
+          return {
+            year,
+            slug: urlItem.loc[0].split("/").pop(),
+            url: urlItem.loc[0],
+            lastmod: urlItem.lastmod ? urlItem.lastmod[0] : null,
+          };
+        }
+      );
 
       return {
         name: year,
