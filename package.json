@@ -17,7 +17,7 @@
     "tailwindcss": "^4.0.0",
     "typescript": "^5"
   },
-  "name": "@arbetsmarknad/starter",
+  "name": "@kollektivavtal/kollektivavtal.github.io",
   "postcss": {
     "plugins": {
       "@tailwindcss/postcss": {}

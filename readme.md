@@ -1,7 +1,7 @@
-# starter
+# kollektivavtal.github.io
 
-Web starter project.
+Gillar man kollektivavtal har man kommit rätt.
 
 ## License
 
-[MIT](https://github.com/arbetsmarknad/starter/blob/main/license)
+[MIT](https://github.com/kollektivavtal/kollektivavtal.github.io/blob/main/license)
