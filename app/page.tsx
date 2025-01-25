@@ -77,9 +77,7 @@ export default async function Home() {
       const text = await response.text();
       const parsedHtml = nodeHtmlParser.parse(text)!;
       const title = parsedHtml.querySelector("title")!.text;
-      const icon = parsedHtml
-        .querySelector("link[rel='icon']")
-        ?.getAttribute("href");
+      const icon = parsedHtml.querySelector("img")?.getAttribute("src");
       return {
         title,
         url: agreement.url,
