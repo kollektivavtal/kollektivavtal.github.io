@@ -21,6 +21,8 @@ import {
 import { Container } from "@arbetsmarknad/components/Container";
 import { HeaderMenu } from "@arbetsmarknad/components/HeaderMenu";
 import { Page } from "@arbetsmarknad/components/Page";
+import { Section } from "@arbetsmarknad/components/Section";
+import { SectionHeading } from "@arbetsmarknad/components/SectionHeading";
 import { TopLevelHeading } from "@arbetsmarknad/components/TopLevelHeading";
 import _ from "lodash";
 import xml2js from "xml2js";
@@ -125,8 +127,8 @@ export default async function Home() {
             </p>
           </div>
 
-          <section className="flex flex-col items-start space-y-4">
-            <h2 className="text-2xl font-bold">Senaste Avtal</h2>
+          <Section>
+            <SectionHeading>Senaste avtal</SectionHeading>
             <DocumentList>
               {mostRecentAgreements.map((agreement) => (
                 <DocumentItem key={agreement.url}>
@@ -140,10 +142,10 @@ export default async function Home() {
                 </DocumentItem>
               ))}
             </DocumentList>
-          </section>
+          </Section>
 
-          <section className="flex flex-col items-start space-y-4">
-            <h2 className="text-2xl font-bold">År</h2>
+          <Section>
+            <SectionHeading>År</SectionHeading>
             <DescriptionList>
               {years.map((year) => (
                 <DescriptionItem key={year.name}>
@@ -159,7 +161,7 @@ export default async function Home() {
                 </DescriptionItem>
               ))}
             </DescriptionList>
-          </section>
+          </Section>
         </Container>
       </main>
     </Page>
