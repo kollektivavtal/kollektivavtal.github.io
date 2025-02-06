@@ -20,6 +20,8 @@ import {
 } from "@arbetsmarknad/components/DocumentList";
 import { Container } from "@arbetsmarknad/components/Container";
 import { HeaderMenu } from "@arbetsmarknad/components/HeaderMenu";
+import { Footer } from "@arbetsmarknad/components/Footer";
+import { Main } from "@arbetsmarknad/components/Main";
 import { Page } from "@arbetsmarknad/components/Page";
 import { Section } from "@arbetsmarknad/components/Section";
 import { SectionHeading } from "@arbetsmarknad/components/SectionHeading";
@@ -57,18 +59,18 @@ export default async function Home() {
             url: urlItem.loc[0],
             lastmod: urlItem.lastmod ? urlItem.lastmod[0] : null,
           };
-        }
+        },
       );
 
       return {
         name: year,
         agreements,
       };
-    })
+    }),
   );
 
   const agreementsInOrderOfMostRecent = _.flatten(
-    years.map((year) => year.agreements)
+    years.map((year) => year.agreements),
   ).sort((a, b) => {
     return a.lastmod < b.lastmod ? 1 : -1;
   });
@@ -86,7 +88,7 @@ export default async function Home() {
         icon: `https://kollektivavtal.github.io/${icon}`,
         lastmod: agreement.lastmod,
       };
-    })
+    }),
   );
 
   return (
@@ -95,22 +97,20 @@ export default async function Home() {
         href="https://kollektivavtal.github.io"
         text="kollektivavtal.github.io"
       />
-      <Breadcrumb className="py-4 w-full flex justify-center">
-        <Container>
-          <BreadcrumbList>
-            <BreadcrumbItem>
-              <BreadcrumbLink href="https://arbetsmarknad.github.io/">
-                Arbetsmarknad
-              </BreadcrumbLink>
-            </BreadcrumbItem>
-            <BreadcrumbSeparator />
-            <BreadcrumbItem>
-              <BreadcrumbLink href="/">Kollektivavtal</BreadcrumbLink>
-            </BreadcrumbItem>
-          </BreadcrumbList>
-        </Container>
+      <Breadcrumb>
+        <BreadcrumbList>
+          <BreadcrumbItem>
+            <BreadcrumbLink href="https://arbetsmarknad.github.io/">
+              Arbetsmarknad
+            </BreadcrumbLink>
+          </BreadcrumbItem>
+          <BreadcrumbSeparator />
+          <BreadcrumbItem>
+            <BreadcrumbLink href="/">Kollektivavtal</BreadcrumbLink>
+          </BreadcrumbItem>
+        </BreadcrumbList>
       </Breadcrumb>
-      <main className="flex flex-col items-center w-full py-4">
+      <Main>
         <Container className="flex flex-col items-start space-y-8">
           <TopLevelHeading text="Kollektivavtalsarkivet" />
 
@@ -163,7 +163,13 @@ export default async function Home() {
             </DescriptionList>
           </Section>
         </Container>
-      </main>
+      </Main>
+      <Footer
+        sourceCode={[
+          "kollektivavtal/kollektivavtal.github.io",
+          "arbetsmarknad/components",
+        ]}
+      />
     </Page>
   );
 }
