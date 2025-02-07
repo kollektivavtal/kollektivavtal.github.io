@@ -1,10 +1,4 @@
-import {
-  Breadcrumb,
-  BreadcrumbItem,
-  BreadcrumbLink,
-  BreadcrumbList,
-  BreadcrumbSeparator,
-} from "@arbetsmarknad/components/Breadcrumb";
+import { Breadcrumbs } from "@arbetsmarknad/components/Breadcrumb";
 import {
   DescriptionList,
   DescriptionItem,
@@ -19,10 +13,7 @@ import {
   DocumentDescription,
 } from "@arbetsmarknad/components/DocumentList";
 import { Container } from "@arbetsmarknad/components/Container";
-import { HeaderMenu } from "@arbetsmarknad/components/HeaderMenu";
-import { Footer } from "@arbetsmarknad/components/Footer";
 import { Main } from "@arbetsmarknad/components/Main";
-import { Page } from "@arbetsmarknad/components/Page";
 import { Section } from "@arbetsmarknad/components/Section";
 import { SectionHeading } from "@arbetsmarknad/components/SectionHeading";
 import { TopLevelHeading } from "@arbetsmarknad/components/TopLevelHeading";
@@ -92,24 +83,13 @@ export default async function Home() {
   );
 
   return (
-    <Page>
-      <HeaderMenu
-        href="https://kollektivavtal.github.io"
-        text="kollektivavtal.github.io"
-      />
-      <Breadcrumb>
-        <BreadcrumbList>
-          <BreadcrumbItem>
-            <BreadcrumbLink href="https://arbetsmarknad.github.io/">
-              Arbetsmarknad
-            </BreadcrumbLink>
-          </BreadcrumbItem>
-          <BreadcrumbSeparator />
-          <BreadcrumbItem>
-            <BreadcrumbLink href="/">Kollektivavtal</BreadcrumbLink>
-          </BreadcrumbItem>
-        </BreadcrumbList>
-      </Breadcrumb>
+    <>
+      <Breadcrumbs>
+        {{
+          "https://arbetsmarknad.github.io/": "Arbetsmarknad",
+          "/": "Kollektivavtal",
+        }}
+      </Breadcrumbs>
       <Main>
         <Container className="flex flex-col items-start space-y-8">
           <TopLevelHeading text="Kollektivavtalsarkivet" />
@@ -164,12 +144,6 @@ export default async function Home() {
           </Section>
         </Container>
       </Main>
-      <Footer
-        sourceCode={[
-          "kollektivavtal/kollektivavtal.github.io",
-          "arbetsmarknad/components",
-        ]}
-      />
-    </Page>
+    </>
   );
 }
