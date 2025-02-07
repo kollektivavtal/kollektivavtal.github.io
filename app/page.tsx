@@ -27,6 +27,7 @@ const yearsWithDocuments = [
   "2022",
   "2021",
   "2020",
+  "2019",
   "2018",
   "2017",
   "2016",
@@ -50,18 +51,18 @@ export default async function Home() {
             url: urlItem.loc[0],
             lastmod: urlItem.lastmod ? urlItem.lastmod[0] : null,
           };
-        },
+        }
       );
 
       return {
         name: year,
         agreements,
       };
-    }),
+    })
   );
 
   const agreementsInOrderOfMostRecent = _.flatten(
-    years.map((year) => year.agreements),
+    years.map((year) => year.agreements)
   ).sort((a, b) => {
     return a.lastmod < b.lastmod ? 1 : -1;
   });
@@ -79,7 +80,7 @@ export default async function Home() {
         icon: `https://kollektivavtal.github.io/${icon}`,
         lastmod: agreement.lastmod,
       };
-    }),
+    })
   );
 
   return (
