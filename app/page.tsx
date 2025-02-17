@@ -52,18 +52,18 @@ export default async function Home() {
             url: urlItem.loc[0],
             lastmod: urlItem.lastmod ? urlItem.lastmod[0] : null,
           };
-        }
+        },
       );
 
       return {
         name: year,
         agreements,
       };
-    })
+    }),
   );
 
   const agreementsInOrderOfMostRecent = _.flatten(
-    years.map((year) => year.agreements)
+    years.map((year) => year.agreements),
   ).sort((a, b) => {
     return a.lastmod < b.lastmod ? 1 : -1;
   });
@@ -81,7 +81,7 @@ export default async function Home() {
         icon: `https://kollektivavtal.github.io/${icon}`,
         lastmod: agreement.lastmod,
       };
-    })
+    }),
   );
 
   return (
@@ -101,7 +101,7 @@ export default async function Home() {
             <p>
               Skicka gärna saknade avtal till{" "}
               <a
-                className="text-blue-600 underline"
+                className="text-link underline"
                 href="mailto:henry@catalinismith.com"
               >
                 henry@catalinismith.com.
@@ -133,7 +133,7 @@ export default async function Home() {
                 <DescriptionItem key={year.name}>
                   <DescriptionTerm>
                     <a
-                      className="font-bold underline text-blue-600"
+                      className="font-bold underline text-link"
                       href={`/${year.name}`}
                     >
                       {year.name}
