@@ -39,7 +39,7 @@ const yearsWithDocuments = [
 export default async function Home() {
   const years = await Promise.all(
     yearsWithDocuments.map(async (year) => {
-      const url = `https://kollektivavtal.github.io/${year}/sitemap.xml`;
+      const url = `https://kollektivavtal.codeberg.page/${year}/sitemap.xml`;
       const response = await fetch(url);
       const text = await response.text();
       const parser = new xml2js.Parser();
@@ -78,7 +78,7 @@ export default async function Home() {
       return {
         title,
         url: agreement.url,
-        icon: `https://kollektivavtal.github.io/${icon}`,
+        icon: `https://kollektivavtal.codeberg.page/${icon}`,
         lastmod: agreement.lastmod,
       };
     }),
@@ -88,7 +88,7 @@ export default async function Home() {
     <>
       <Breadcrumbs>
         {{
-          "https://arbetsmarknad.github.io/": "Arbetsmarknad",
+          "https://arbetsmarknad.codeberg.page/": "Arbetsmarknad",
           "/": "Kollektivavtal",
         }}
       </Breadcrumbs>

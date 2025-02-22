@@ -1,7 +1,7 @@
-# kollektivavtal.github.io
+# kollektivavtal.codeberg.page
 
 Gillar man kollektivavtal har man kommit rätt.
 
 ## License
 
-[MIT](https://github.com/kollektivavtal/kollektivavtal.github.io/blob/main/license)
+[MIT](https://codeberg.org/kollektivavtal/pages/src/branch/main/license)

@@ -5,7 +5,7 @@
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "@arbetsmarknad/components": "^1.0.0",
+    "@arbetsmarknad/components": "^1.1.1",
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4.0.0",
     "@types/lodash": "^4.17.14",
@@ -22,7 +22,7 @@
     "typescript": "^5",
     "xml2js": "^0.6.2"
   },
-  "name": "@kollektivavtal/kollektivavtal.github.io",
+  "name": "@kollektivavtal/pages",
   "postcss": {
     "plugins": {
       "@tailwindcss/postcss": {}
@@ -32,6 +32,7 @@
     "build": "next build",
     "dev": "next dev",
     "lint": "next lint",
+    "ship": "pnpm build && npx gh-pages --nojekyll --no-history --branch pages -d out --repo git@codeberg.org:kollektivavtal/pages.git",
     "start": "next start"
   },
   "version": "0.1.0"
