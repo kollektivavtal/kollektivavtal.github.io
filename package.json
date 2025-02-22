@@ -1,4 +1,5 @@
 {
+  "author": "Henry Catalini Smith <henry@catalinismith.com>",
   "dependencies": {
     "next": "15.1.6",
     "react": "^19.0.0",
@@ -22,6 +23,8 @@
     "typescript": "^5",
     "xml2js": "^0.6.2"
   },
+  "homepage": "https://codeberg.org/kollektivavtal/pages",
+  "license": "CC0-1.0",
   "name": "@kollektivavtal/pages",
   "postcss": {
     "plugins": {
