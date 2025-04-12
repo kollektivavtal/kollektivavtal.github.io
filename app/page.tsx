@@ -22,7 +22,7 @@ import xml2js from "xml2js";
 import nodeHtmlParser from "node-html-parser";
 
 const yearsWithDocuments = [
-  "2025",
+  // "2025",
   "2024",
   "2023",
   "2022",
