@@ -103,9 +103,9 @@ export default async function Home() {
               Skicka gärna saknade avtal till{" "}
               <a
                 className="text-link underline"
-                href="mailto:henry@catalinismith.com"
+                href="mailto:henry@catalinismith.se"
               >
-                henry@catalinismith.com.
+                henry@catalinismith.se.
               </a>
             </p>
           </div>
