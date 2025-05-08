@@ -22,7 +22,7 @@ import xml2js from "xml2js";
 import nodeHtmlParser from "node-html-parser";
 
 const yearsWithDocuments = [
-  // "2025",
+  "2025",
   "2024",
   "2023",
   "2022",
@@ -53,18 +53,18 @@ export default async function Home() {
             url: urlItem.loc[0],
             lastmod: urlItem.lastmod ? urlItem.lastmod[0] : null,
           };
-        },
+        }
       );
 
       return {
         name: year,
         agreements,
       };
-    }),
+    })
   );
 
   const agreementsInOrderOfMostRecent = _.flatten(
-    years.map((year) => year.agreements),
+    years.map((year) => year.agreements)
   ).sort((a, b) => {
     return a.lastmod < b.lastmod ? 1 : -1;
   });
@@ -82,7 +82,7 @@ export default async function Home() {
         icon: `https://kollektivavtal.codeberg.page/${icon}`,
         lastmod: agreement.lastmod,
       };
-    }),
+    })
   );
 
   return (
