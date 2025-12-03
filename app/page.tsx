@@ -21,6 +21,9 @@ import _ from "lodash";
 import xml2js from "xml2js";
 import nodeHtmlParser from "node-html-parser";
 
+export const dynamic = 'force-static';
+export const fetchCache = 'default-no-store';
+
 const yearsWithDocuments = [
   "2025",
   "2024",
