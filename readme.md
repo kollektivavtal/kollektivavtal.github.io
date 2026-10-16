@@ -1,7 +1,7 @@
-# kollektivavtal.codeberg.page
+# kollektivavtal.github.io
 
 Gillar man kollektivavtal har man kommit rätt.
 
 ## License
 
-[CC-0](https://codeberg.org/kollektivavtal/pages/src/branch/main/license)
+[CC-0](https://github.com/kollektivavtal/kollektivavtal.github.io/blob/main/license)

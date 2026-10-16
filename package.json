@@ -1,5 +1,5 @@
 {
-  "author": "Henry Catalini Smith <henry@catalinismith.com>",
+  "author": "Henry Catalini Smith <henry@catalinismith.se>",
   "dependencies": {
     "next": "15.1.6",
     "react": "^19.0.0",
@@ -23,9 +23,9 @@
     "typescript": "^5",
     "xml2js": "^0.6.2"
   },
-  "homepage": "https://codeberg.org/kollektivavtal/pages",
+  "homepage": "https://github.com/kollektivavtal/pages",
   "license": "CC0-1.0",
-  "name": "@kollektivavtal/pages",
+  "name": "@kollektivavtal/kollektivavtal.github.io",
   "postcss": {
     "plugins": {
       "@tailwindcss/postcss": {}
@@ -35,7 +35,7 @@
     "build": "next build",
     "dev": "next dev",
     "lint": "next lint",
-    "ship": "pnpm build && npx gh-pages --nojekyll --no-history --branch pages -d out --repo git@codeberg.org:kollektivavtal/pages.git",
+    "ship": "pnpm build && npx gh-pages --nojekyll --no-history --branch gh-pages -d out --repo git@github.com:kollektivavtal/pages.git",
     "start": "next start"
   },
   "version": "0.1.0"
