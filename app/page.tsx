@@ -43,7 +43,7 @@ const yearsWithDocuments = [
 export default async function Home() {
   const years = await Promise.all(
     yearsWithDocuments.map(async (year) => {
-      const url = `https://kollektivavtal.codeberg.page/${year}/sitemap.xml`;
+      const url = `https://kollektivavtal.github.io/${year}/sitemap.xml`;
       const response = await fetch(url);
       const text = await response.text();
       const parser = new xml2js.Parser();

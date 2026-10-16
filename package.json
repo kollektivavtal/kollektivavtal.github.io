@@ -23,7 +23,7 @@
     "typescript": "^5",
     "xml2js": "^0.6.2"
   },
-  "homepage": "https://github.com/kollektivavtal/pages",
+  "homepage": "https://github.com/kollektivavtal/kollektivavtal.github.io",
   "license": "CC0-1.0",
   "name": "@kollektivavtal/kollektivavtal.github.io",
   "postcss": {
@@ -35,7 +35,7 @@
     "build": "next build",
     "dev": "next dev",
     "lint": "next lint",
-    "ship": "pnpm build && npx gh-pages --nojekyll --no-history --branch gh-pages -d out --repo git@github.com:kollektivavtal/Kollektivavtal.github.io.git",
+    "ship": "pnpm build && npx gh-pages --nojekyll --no-history --branch gh-pages -d out --repo git@github.com:kollektivavtal/kollektivavtal.github.io.git",
     "start": "next start"
   },
   "version": "0.1.0"

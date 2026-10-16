@@ -38,7 +38,7 @@ export default function RootLayout({
           />
           {children}
           <Footer
-            sourceCode={["kollektivavtal/pages", "arbetsmarknad/components"]}
+            sourceCode={["kollektivavtal/kollektivavtal.github.io", "arbetsmarknad/components"]}
           />
         </Page>
       </body>
