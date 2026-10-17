@@ -1,26 +1,2 @@
-@import "tailwindcss";
+@import "../node_modules/@arbetsmarknad/components/tailwind.css";
 @source "../node_modules/@arbetsmarknad/components";
-
-@theme {
-  --breakpoint-xxs: 300px;
-  --breakpoint-xs: 380px;
-  --color-background: #fafafa;
-  --color-background-secondary: lightgray;
-  --color-foreground: #171717;
-  --color-link: royalblue;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --color-background: #1f1f1f;
-    --color-foreground: #ededed;
-    --color-background-secondary: darkslategray;
-    --color-link: deepskyblue;
-  }
-}
-
-body {
-  color: var(--color-foreground);
-  background: var(--color-background);
-  font-family: Arial, Helvetica, sans-serif;
-}
