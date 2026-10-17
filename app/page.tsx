@@ -2,7 +2,6 @@ import { Breadcrumbs } from "@arbetsmarknad/components/Breadcrumb";
 import { Container } from "@arbetsmarknad/components/Container";
 import { Main } from "@arbetsmarknad/components/Main";
 import { Section } from "@arbetsmarknad/components/Section";
-import { SectionHeading } from "@arbetsmarknad/components/SectionHeading";
 import { TopLevelHeading } from "@arbetsmarknad/components/TopLevelHeading";
 import _ from "lodash";
 import xml2js from "xml2js";
