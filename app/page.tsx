@@ -25,6 +25,7 @@ export const dynamic = 'force-static';
 export const fetchCache = 'default-no-store';
 
 const yearsWithDocuments = [
+  "2026",
   "2025",
   "2024",
   "2023",
