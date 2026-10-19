@@ -1,2 +1,4 @@
+allowBuilds:
+  sharp: true
 minimumReleaseAgeExclude:
   - '@svenskamodellen/components@1.5.0'
