@@ -1,6 +1,6 @@
 # kollektivavtal.github.io
 
-Homepage for the kollektivavtal archive subsite of the arbetsmarknad Swedish labour market documentation project.
+Homepage for the kollektivavtal archive subsite of the svenskamodellen Swedish labour market documentation project.
 
 ## Commands
 

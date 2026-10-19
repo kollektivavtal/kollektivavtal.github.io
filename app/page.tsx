@@ -1,8 +1,8 @@
-import { Breadcrumbs } from "@arbetsmarknad/components/Breadcrumb";
-import { Container } from "@arbetsmarknad/components/Container";
-import { Main } from "@arbetsmarknad/components/Main";
-import { Section } from "@arbetsmarknad/components/Section";
-import { TopLevelHeading } from "@arbetsmarknad/components/TopLevelHeading";
+import { Breadcrumbs } from "@svenskamodellen/components/Breadcrumb";
+import { Container } from "@svenskamodellen/components/Container";
+import { Main } from "@svenskamodellen/components/Main";
+import { Section } from "@svenskamodellen/components/Section";
+import { TopLevelHeading } from "@svenskamodellen/components/TopLevelHeading";
 import _ from "lodash";
 import xml2js from "xml2js";
 import nodeHtmlParser from "node-html-parser";
@@ -84,7 +84,7 @@ export default async function Home() {
     <>
       <Breadcrumbs>
         {{
-          "https://arbetsmarknad.github.io/": "Arbetsmarknad",
+          "https://svenskamodellen.github.io/": "Svenska modellen",
           "/": "Kollektivavtal",
         }}
       </Breadcrumbs>
