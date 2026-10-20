@@ -95,17 +95,13 @@ export default async function Home() {
             subtext="Gillar man kollektivavtal har man kommit rätt."
           />
 
-          <div className="flex flex-col items-start space-y-2">
-            <p>
-              Skicka gärna saknade avtal till{" "}
-              <a
-                className="text-link underline"
-                href="mailto:henry@catalinismith.se"
-              >
-                henry@catalinismith.se.
-              </a>
-            </p>
-          </div>
+          <p className="font-serif text-lg">
+            Har du tillgång till avtal? <a className="text-link" href="/bidra">Hjälp till att bygga arkivet</a>. Saknas ett avtal här? Skicka det till{" "}
+            <a className="text-link" href="mailto:henry@catalinismith.se">
+              henry@catalinismith.se
+            </a>
+            .
+          </p>
 
           <Section className="w-full overflow-visible">
             <div className="flex w-full flex-col gap-y-10">
@@ -113,12 +109,12 @@ export default async function Home() {
                 <section key={year.name} className="flex flex-col gap-y-5">
                   <div className="flex flex-col gap-y-1">
                     <a
-                      className="text-2xl font-bold text-link underline md:text-3xl"
+                      className="font-serif text-2xl font-bold text-link underline md:text-3xl"
                       href={`/${year.name}`}
                     >
                       {year.name}
                     </a>
-                    <span className="text-base text-slate-500 dark:text-slate-100">
+                    <span className="font-lilex text-base text-slate-500 dark:text-slate-100">
                       {year.agreements.length} avtal
                     </span>
                   </div>
@@ -140,7 +136,7 @@ export default async function Home() {
                             <div className="h-full w-full bg-slate-100" />
                           )}
                         </div>
-                        <span className="line-clamp-2 text-sm leading-5 group-hover:underline">
+                        <span className="line-clamp-2 font-lilex text-sm leading-5 tracking-tighter group-hover:underline break-all">
                           {agreement.title}
                         </span>
                       </a>
