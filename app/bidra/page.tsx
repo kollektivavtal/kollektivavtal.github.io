@@ -26,22 +26,22 @@ export default function Bidra() {
             subtext="Var en del av offentlighetsprincipen"
           />
 
-          <div className="flex max-w-prose flex-col space-y-6 font-lilex">
-            <p>
+          <div className="flex max-w-prose flex-col space-y-6">
+            <p className="body-text">
               Målbilden med Kollektivavtalsarkivet är att göra det enkelt att
               bläddra bland, hitta och forska i kollektivavtal. Kollektivavtalen
               är en viktig del av det svenska samhället, och det borde finnas en
               plats där vem som helst kan läsa dem online.
             </p>
 
-            <p>
+            <p className="body-text">
               I dag ligger de flesta kollektivavtal gömda bakom
               inloggningssidor, trots att de inte alls är hemliga dokument. Att
               de är så svåra att komma åt gör det onödigt krångligt att ta del av
               något som egentligen angår oss alla.
             </p>
 
-            <p>
+            <p className="body-text">
               Du som har tillgång till avtalen genom medlemskap i eller
               anställning hos ett fackförbund kan spela en viktig roll i bygget
               av ett fritt arkiv av kollektivavtal online. Skicka gärna de avtal
