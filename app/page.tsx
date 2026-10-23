@@ -120,10 +120,9 @@ export default async function Home() {
                   </div>
                   <div className="flex gap-x-4 overflow-x-auto -mx-2 px-2 pt-2 pb-4 pr-8 [scrollbar-width:thin] [mask-image:linear-gradient(to_right,black_calc(100%-2rem),transparent)]">
                     {year.featuredAgreements.map((agreement) => (
-                      <a
+                      <div
                         key={agreement.url}
-                        className="group flex w-40 shrink-0 flex-col gap-y-2"
-                        href={agreement.url}
+                        className="group relative flex w-[190px] shrink-0 flex-col gap-y-2"
                       >
                         <div className="aspect-[707/1000] w-full overflow-hidden rounded-md bg-white shadow-md ring-1 ring-black/10 transition-transform duration-150 group-hover:-translate-y-0.5 group-hover:shadow-lg dark:ring-white/50 dark:ring-offset-2 dark:ring-offset-[var(--color-background)]">
                           {agreement.icon ? (
@@ -136,18 +135,22 @@ export default async function Home() {
                             <div className="h-full w-full bg-slate-100" />
                           )}
                         </div>
-                        <span className="line-clamp-2 body-text group-hover:underline break-all">
+                        <a
+                          className="block w-full min-w-0 text-link underline body-text [hyphens:auto] [hyphenate-limit-chars:3_1_1] [overflow-wrap:break-word] group-hover:underline after:absolute after:inset-0"
+                          lang="sv"
+                          href={agreement.url}
+                        >
                           {agreement.title}
-                        </span>
-                      </a>
+                        </a>
+                      </div>
                     ))}
                     {year.agreements.length > year.featuredAgreements.length && (
                       <a
-                        className="group flex w-40 shrink-0 flex-col gap-y-2"
+                        className="group flex w-[190px] shrink-0 flex-col gap-y-2"
                         href={`/${year.name}`}
                       >
                         <div className="flex aspect-[707/1000] w-full flex-col items-center justify-center gap-y-1 rounded-md border border-dashed border-slate-300 text-center transition-transform duration-150 group-hover:-translate-y-0.5">
-                          <span className="font-bold text-link group-hover:underline">Se alla</span>
+                          <span className="font-bold text-link underline group-hover:underline">Se alla</span>
                           <span className="text-sm">
                             {`${year.agreements.length} avtal från ${year.name}`}
                           </span>
