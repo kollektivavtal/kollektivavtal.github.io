@@ -95,13 +95,18 @@ export default async function Home() {
             subtext="Gillar man kollektivavtal har man kommit rätt."
           />
 
-          <p className="body-text max-w-prose">
-            Har du tillgång till avtal? <a className="text-link" href="/bidra">Hjälp till att bygga arkivet</a>. Saknas ett avtal här? Skicka det till{" "}
-            <a className="text-link underline" href="mailto:henry@catalinismith.se">
-              henry@catalinismith.se
-            </a>
-            .
+          <div className="flex flex-col gap-6">
+          <p className="max-w-prose body-text">Den här sidan är en del av webbprojektet <a className="text-link underline" href="https://svenskamodellen.github.io/">Svenska Modellen</a> med målet att göra det enkelt att hitta och forska i kollektivavtal.</p>
+
+          <p className="max-w-prose body-text">
+            Sverige har ingen lagstadgad minimilön. Istället bygger vår arbetsmarknadsmodell på att villkoren förhandlas fram i kollektivavtal. När så mycket av arbetslivet regleras genom avtal mellan parterna måste avtalen vara tillgängliga för alla.
+
           </p>
+
+          <p className="body-text max-w-prose">
+            Har du tillgång till avtal? <a className="text-link" href="/bidra">Hjälp till att bygga arkivet</a>.
+          </p>
+          </div>
 
           <Section className="w-full overflow-visible">
             <div className="flex w-full flex-col gap-y-10">

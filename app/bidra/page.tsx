@@ -35,17 +35,16 @@ export default function Bidra() {
             </p>
 
             <p className="body-text">
-              I dag ligger de flesta kollektivavtal gömda bakom
+              I dag ligger alldeles för många kollektivavtal gömda bakom
               inloggningssidor, trots att de inte alls är hemliga dokument. Att
               de är så svåra att komma åt gör det onödigt krångligt att ta del av
               något som egentligen angår oss alla.
-            </p>
+
+ Att exempelvis minimilönen i olika branscher inte går att hitta en ordentlig förstahandskälla för är ett transparensproblem som inte är en nödvändig följd av partsmodellen.            </p>
 
             <p className="body-text">
-              Du som har tillgång till avtalen genom medlemskap i eller
-              anställning hos ett fackförbund kan spela en viktig roll i bygget
-              av ett fritt arkiv av kollektivavtal online. Skicka gärna de avtal
-              du har tillgång till till{" "}
+              Du som har tillgång till kollektivavtal genom medlemskap i eller anställning hos ett fackförbund kan hjälpa till att bygga ett fritt och öppet digitalt arkiv.
+              Skicka gärna de avtal du har tillgång till till{" "}
               <a
                 className="text-link underline"
                 href="mailto:henry@catalinismith.se"
