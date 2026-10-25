@@ -6,7 +6,6 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Bidra med avtal",
-  description: "Var en del av offentlighetsprincipen.",
 };
 
 export default function Bidra() {
@@ -23,7 +22,6 @@ export default function Bidra() {
         <Container className="flex flex-col items-start space-y-8">
           <TopLevelHeading
             text="Bidra med avtal"
-            subtext="Var en del av offentlighetsprincipen"
           />
 
           <div className="flex max-w-prose flex-col space-y-6">
