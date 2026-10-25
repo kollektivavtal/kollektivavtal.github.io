@@ -57,7 +57,7 @@ export default async function Home() {
     years.map(async (year) => {
       const featuredAgreements = await Promise.all(
         _.orderBy(year.agreements, ["lastmod"], ["desc"])
-          .slice(0, 16)
+          .slice(0, 4)
           .map(async (agreement) => {
             const response = await fetch(agreement.url);
             const text = await response.text();
