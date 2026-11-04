@@ -3,19 +3,19 @@
 
 ## 2025
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2025/Tja%CC%88nstemannaavtal%20Tra%CC%88industri%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2025/Tj%C3%A4nstemannaavtal%20Tr%C3%A4industri%20%281%29%20Kollektivavtal.pdf)
   PDF, 967.53 KB
 
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Tja%CC%88nstemannaavtal%20Tra%CC%88industri%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Tj%C3%A4nstemannaavtal%20Tr%C3%A4industri%20%281%29%20Kollektivavtal.pdf)
   PDF, 991.94 KB
 
 
 ## 2020
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2020/Tja%CC%88nstemannaavtal%20Tra%CC%88industri%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2020/Tj%C3%A4nstemannaavtal%20Tr%C3%A4industri%20%281%29%20Kollektivavtal.pdf)
   PDF, 909.16 KB
 
 ## Forbund

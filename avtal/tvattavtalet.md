@@ -3,7 +3,7 @@
 
 ## 2025
 
-- [Tvättavtalet](https://kollektivavtal.github.io/2025/Tva%CC%88ttavtalet.pdf)
+- [Tvättavtalet](https://kollektivavtal.github.io/2025/Tv%C3%A4ttavtalet.pdf)
   PDF, 3128.64 KB
 
 ## Forbund

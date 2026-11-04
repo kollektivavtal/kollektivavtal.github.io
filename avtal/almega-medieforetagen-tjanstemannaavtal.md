@@ -3,7 +3,7 @@
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Almega%20Mediefo%CC%88retagen%20Tja%CC%88nstemannaavtal%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Almega%20Medief%C3%B6retagen%20Tj%C3%A4nstemannaavtal%20%281%29%20Kollektivavtal.pdf)
   PDF, 996.67 KB
 
 ## Forbund

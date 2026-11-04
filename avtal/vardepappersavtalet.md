@@ -3,7 +3,7 @@
 
 ## 2017
 
-- [Förhandlingsprotokoll](https://kollektivavtal.github.io/2017/Va%CC%88rdepappersavtalet%20%281%29%20Fo%CC%88rhandlingsprotokoll.pdf)
+- [Förhandlingsprotokoll](https://kollektivavtal.github.io/2017/V%C3%A4rdepappersavtalet%20%281%29%20F%C3%B6rhandlingsprotokoll.pdf)
   PDF, 147.63 KB
 
 ## Forbund

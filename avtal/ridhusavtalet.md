@@ -8,10 +8,10 @@
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Ridhusfo%CC%88retag%20Fremia%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Ridhusf%C3%B6retag%20Fremia%20%281%29%20Kollektivavtal.pdf)
   PDF, 267.25 KB
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Ridhusfo%CC%88retag%20Almega%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Ridhusf%C3%B6retag%20Almega%20%281%29%20Kollektivavtal.pdf)
   PDF, 1215.02 KB
 
 ## Forbund

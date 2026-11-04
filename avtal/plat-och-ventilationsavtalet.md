@@ -3,19 +3,19 @@
 
 ## 2025
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2025/Pla%CC%8At-%20och%20ventilationsavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2025/Pl%C3%A5t-%20och%20ventilationsavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 4025.29 KB
 
 
 ## 2023
 
-- [Kollektivavtal och allmänna bestämmelser](https://kollektivavtal.github.io/2023/Pla%CC%8At-%20och%20Ventilationsavtalet%20%281%29%20Kollektivavtal%20och%20allma%CC%88nna%20besta%CC%88mmelser.pdf)
+- [Kollektivavtal och allmänna bestämmelser](https://kollektivavtal.github.io/2023/Pl%C3%A5t-%20och%20Ventilationsavtalet%20%281%29%20Kollektivavtal%20och%20allm%C3%A4nna%20best%C3%A4mmelser.pdf)
   PDF, 1224.75 KB
 
 
 ## 2020
 
-- [Kollektivavtal och allmänna bestämmelser](https://kollektivavtal.github.io/2020/Pla%CC%8At-%20och%20Ventilationsavtalet%20%281%29%20Kollektivavtal%20och%20allma%CC%88nna%20besta%CC%88mmelser.pdf)
+- [Kollektivavtal och allmänna bestämmelser](https://kollektivavtal.github.io/2020/Pl%C3%A5t-%20och%20Ventilationsavtalet%20%281%29%20Kollektivavtal%20och%20allm%C3%A4nna%20best%C3%A4mmelser.pdf)
   PDF, 2328.82 KB
 
 ## Forbund

@@ -3,52 +3,52 @@
 
 ## 2025
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2025/Va%CC%88g-%20och%20Banavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2025/V%C3%A4g-%20och%20Banavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 1389.81 KB
 
-- [Fickavtal](https://kollektivavtal.github.io/2025/Va%CC%88g-%20och%20Banavtalet%20%282%29%20Fickavtal.pdf)
+- [Fickavtal](https://kollektivavtal.github.io/2025/V%C3%A4g-%20och%20Banavtalet%20%282%29%20Fickavtal.pdf)
   PDF, 4767.81 KB
 
-- [Ferielöner](https://kollektivavtal.github.io/2025/Va%CC%88g-%20och%20banavtalet%20%283%29%20Ferielo%CC%88ner.pdf)
+- [Ferielöner](https://kollektivavtal.github.io/2025/V%C3%A4g-%20och%20banavtalet%20%283%29%20Feriel%C3%B6ner.pdf)
   PDF, 577.56 KB
 
 
 ## 2024
 
-- [Ferieloner](https://kollektivavtal.github.io/2024/Va%CC%88g-%20och%20Banavtalet%20%281%29%20Ferieloner.pdf)
+- [Ferieloner](https://kollektivavtal.github.io/2024/V%C3%A4g-%20och%20Banavtalet%20%281%29%20Ferieloner.pdf)
   PDF, 855.38 KB
 
 
 ## 2023
 
-- [Fickavtal](https://kollektivavtal.github.io/2023/Va%CC%88g-%20och%20Banavtalet%20%281%29%20Fickavtal.pdf)
+- [Fickavtal](https://kollektivavtal.github.io/2023/V%C3%A4g-%20och%20Banavtalet%20%281%29%20Fickavtal.pdf)
   PDF, 9259.57 KB
 
-- [Överenskommelse](https://kollektivavtal.github.io/2023/Va%CC%88g-%20och%20Banavtalet%20%282%29%20O%CC%88verenskommelse.pdf)
+- [Överenskommelse](https://kollektivavtal.github.io/2023/V%C3%A4g-%20och%20Banavtalet%20%282%29%20%C3%96verenskommelse.pdf)
   PDF, 3023.61 KB
 
-- [Lönebilaga](https://kollektivavtal.github.io/2023/Va%CC%88g-%20och%20Banavtalet%20%283%29%20Lo%CC%88nebilaga.pdf)
+- [Lönebilaga](https://kollektivavtal.github.io/2023/V%C3%A4g-%20och%20Banavtalet%20%283%29%20L%C3%B6nebilaga.pdf)
   PDF, 228.26 KB
 
 
 ## 2022
 
-- [Överenskommelse om in- och uthyrning](https://kollektivavtal.github.io/2022/Va%CC%88g-%20och%20Banavtalet%20%281%29%20O%CC%88verenskommelse%20om%20in-%20och%20uthyrning.pdf)
+- [Överenskommelse om in- och uthyrning](https://kollektivavtal.github.io/2022/V%C3%A4g-%20och%20Banavtalet%20%281%29%20%C3%96verenskommelse%20om%20in-%20och%20uthyrning.pdf)
   PDF, 2102.17 KB
 
 
 ## 2017
 
-- [Supplement to the Road and Rail Agreement](https://kollektivavtal.github.io/2017/Va%CC%88g-%20och%20Banavtalet%20%281%29%20Supplement%20to%20the%20Road%20and%20Rail%20Agreement%20%28en%29.pdf)
+- [Supplement to the Road and Rail Agreement](https://kollektivavtal.github.io/2017/V%C3%A4g-%20och%20Banavtalet%20%281%29%20Supplement%20to%20the%20Road%20and%20Rail%20Agreement%20%28en%29.pdf)
   PDF, 432.67 KB
 
 
 ## 2014
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2014/Va%CC%88g-%20och%20Banavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2014/V%C3%A4g-%20och%20Banavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 1545.81 KB
 
-- [Collective Agreement](https://kollektivavtal.github.io/2014/Va%CC%88g-%20och%20Banavtalet%20%282%29%20Collective%20Agreement%20%28en%29.pdf)
+- [Collective Agreement](https://kollektivavtal.github.io/2014/V%C3%A4g-%20och%20Banavtalet%20%282%29%20Collective%20Agreement%20%28en%29.pdf)
   PDF, 2299.95 KB
 
 ## Forbund

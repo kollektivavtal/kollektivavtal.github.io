@@ -12,7 +12,7 @@
 
 ## 2023
 
-- [Allmänna anställningsvillkor](https://kollektivavtal.github.io/2023/Innovationsavtalet%20%281%29%20Allma%CC%88nna%20ansta%CC%88llningsvillkor.pdf)
+- [Allmänna anställningsvillkor](https://kollektivavtal.github.io/2023/Innovationsavtalet%20%281%29%20Allm%C3%A4nna%20anst%C3%A4llningsvillkor.pdf)
   PDF, 2375.24 KB
 
 ## Forbund

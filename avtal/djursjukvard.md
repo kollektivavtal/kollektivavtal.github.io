@@ -3,16 +3,16 @@
 
 ## 2025
 
-- [Arbetare](https://kollektivavtal.github.io/2025/Djursjukva%CC%8Ard%20%281%29%20Arbetare.pdf)
+- [Arbetare](https://kollektivavtal.github.io/2025/Djursjukv%C3%A5rd%20%281%29%20Arbetare.pdf)
   PDF, 2226.81 KB
 
 
 ## 2023
 
-- [Arbetare](https://kollektivavtal.github.io/2023/Djursjukva%CC%8Ard%20%281%29%20Arbetare.pdf)
+- [Arbetare](https://kollektivavtal.github.io/2023/Djursjukv%C3%A5rd%20%281%29%20Arbetare.pdf)
   PDF, 2117.06 KB
 
-- [Tjänstemän](https://kollektivavtal.github.io/2023/Djursjukva%CC%8Ard%20%282%29%20Tja%CC%88nstema%CC%88n.pdf)
+- [Tjänstemän](https://kollektivavtal.github.io/2023/Djursjukv%C3%A5rd%20%282%29%20Tj%C3%A4nstem%C3%A4n.pdf)
   PDF, 2830.44 KB
 
 ## Forbund

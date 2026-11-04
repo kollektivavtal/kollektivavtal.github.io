@@ -9,7 +9,7 @@
 
 ## 2023
 
-- [Kollektivavtal för redaktionspersonal](https://kollektivavtal.github.io/2023/Dagspressavtalet%20%281%29%20Kollektivavtal%20fo%CC%88r%20redaktionspersonal.pdf)
+- [Kollektivavtal för redaktionspersonal](https://kollektivavtal.github.io/2023/Dagspressavtalet%20%281%29%20Kollektivavtal%20f%C3%B6r%20redaktionspersonal.pdf)
   PDF, 1465.27 KB
 
 ## Forbund

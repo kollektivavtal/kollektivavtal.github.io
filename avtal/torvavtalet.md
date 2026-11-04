@@ -3,7 +3,7 @@
 
 ## 2025
 
-- [Förhandlingsprotokoll](https://kollektivavtal.github.io/2025/Torvavtalet%20%281%29%20Fo%CC%88rhandlingsprotokoll.pdf)
+- [Förhandlingsprotokoll](https://kollektivavtal.github.io/2025/Torvavtalet%20%281%29%20F%C3%B6rhandlingsprotokoll.pdf)
   PDF, 950.40 KB
 
 ## Forbund

@@ -3,13 +3,13 @@
 
 ## 2025
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2025/Fo%CC%88nsterputsavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2025/F%C3%B6nsterputsavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 526.52 KB
 
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Fo%CC%88nsterputsavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/F%C3%B6nsterputsavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 2350.92 KB
 
 ## Forbund

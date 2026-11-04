@@ -6,7 +6,7 @@
 - [Nautiker](https://kollektivavtal.github.io/2024/TAP-avtalet%20%281%29%20Nautiker.pdf)
   PDF, 520.31 KB
 
-- [Lönebilaga](https://kollektivavtal.github.io/2024/TAP-avtalet%20%282%29%20Lo%CC%88nebilaga.pdf)
+- [Lönebilaga](https://kollektivavtal.github.io/2024/TAP-avtalet%20%282%29%20L%C3%B6nebilaga.pdf)
   PDF, 91.62 KB
 
 ## Forbund

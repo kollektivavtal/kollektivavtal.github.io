@@ -3,7 +3,7 @@
 
 ## 2020
 
-- [Almega Tjänsteföretagen Tjänstemannaavtalet](https://kollektivavtal.github.io/2020/Almega%20Tja%CC%88nstefo%CC%88retagen%20Tja%CC%88nstemannaavtalet.pdf)
+- [Almega Tjänsteföretagen Tjänstemannaavtalet](https://kollektivavtal.github.io/2020/Almega%20Tj%C3%A4nstef%C3%B6retagen%20Tj%C3%A4nstemannaavtalet.pdf)
   PDF, 2799.49 KB
 
 ## Forbund

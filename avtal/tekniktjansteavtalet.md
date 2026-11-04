@@ -3,7 +3,7 @@
 
 ## 2023
 
-- [Tekniktjänsteavtalet](https://kollektivavtal.github.io/2023/Tekniktja%CC%88nsteavtalet.pdf)
+- [Tekniktjänsteavtalet](https://kollektivavtal.github.io/2023/Tekniktj%C3%A4nsteavtalet.pdf)
   PDF, 935.06 KB
 
 ## Forbund

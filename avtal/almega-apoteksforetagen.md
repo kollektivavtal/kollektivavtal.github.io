@@ -3,13 +3,13 @@
 
 ## 2025
 
-- [Almega Apoteksföretagen](https://kollektivavtal.github.io/2025/Almega%20Apoteksfo%CC%88retagen.pdf)
+- [Almega Apoteksföretagen](https://kollektivavtal.github.io/2025/Almega%20Apoteksf%C3%B6retagen.pdf)
   PDF, 2628.24 KB
 
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Almega%20Apoteksfo%CC%88retagen%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Almega%20Apoteksf%C3%B6retagen%20%281%29%20Kollektivavtal.pdf)
   PDF, 2595.20 KB
 
 ## Forbund

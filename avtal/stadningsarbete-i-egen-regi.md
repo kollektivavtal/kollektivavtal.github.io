@@ -3,13 +3,13 @@
 
 ## 2025
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2025/Sta%CC%88dningsarbete%20i%20egen%20regi%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2025/St%C3%A4dningsarbete%20i%20egen%20regi%20%281%29%20Kollektivavtal.pdf)
   PDF, 633.71 KB
 
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Sta%CC%88dningsarbete%20i%20egen%20regi%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/St%C3%A4dningsarbete%20i%20egen%20regi%20%281%29%20Kollektivavtal.pdf)
   PDF, 907.30 KB
 
 ## Forbund

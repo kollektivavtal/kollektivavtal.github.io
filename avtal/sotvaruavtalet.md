@@ -3,13 +3,13 @@
 
 ## 2025
 
-- [Sötvaruavtalet](https://kollektivavtal.github.io/2025/So%CC%88tvaruavtalet.pdf)
+- [Sötvaruavtalet](https://kollektivavtal.github.io/2025/S%C3%B6tvaruavtalet.pdf)
   PDF, 309.60 KB
 
 
 ## 2017
 
-- [Sötvaruavtalet](https://kollektivavtal.github.io/2017/So%CC%88tvaruavtalet.pdf)
+- [Sötvaruavtalet](https://kollektivavtal.github.io/2017/S%C3%B6tvaruavtalet.pdf)
   PDF, 305.30 KB
 
 ## Forbund

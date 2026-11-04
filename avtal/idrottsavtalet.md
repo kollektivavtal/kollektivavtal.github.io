@@ -3,7 +3,7 @@
 
 ## 2023
 
-- [Unionen, Akademikerförbunden, Ledarna](https://kollektivavtal.github.io/2023/Idrottsavtalet%20%281%29%20Unionen%2C%20Akademikerfo%CC%88rbunden%2C%20Ledarna.pdf)
+- [Unionen, Akademikerförbunden, Ledarna](https://kollektivavtal.github.io/2023/Idrottsavtalet%20%281%29%20Unionen%2C%20Akademikerf%C3%B6rbunden%2C%20Ledarna.pdf)
   PDF, 528.47 KB
 
 

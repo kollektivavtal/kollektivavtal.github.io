@@ -3,7 +3,7 @@
 
 ## 2023
 
-- [Kollektivavtal, Allmänna Anställningsvillkor](https://kollektivavtal.github.io/2023/Bransch%20D%20-%20Fo%CC%88retagsha%CC%88lsova%CC%8Ard%20%281%29%20Kollektivavtal%2C%20Allma%CC%88nna%20Ansta%CC%88llningsvillkor.pdf)
+- [Kollektivavtal, Allmänna Anställningsvillkor](https://kollektivavtal.github.io/2023/Bransch%20D%20-%20F%C3%B6retagsh%C3%A4lsov%C3%A5rd%20%281%29%20Kollektivavtal%2C%20Allm%C3%A4nna%20Anst%C3%A4llningsvillkor.pdf)
   PDF, 2964.48 KB
 
 ## Forbund

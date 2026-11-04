@@ -3,13 +3,13 @@
 
 ## 2025
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2025/Tja%CC%88nstemannaavtalet%20Byggfo%CC%88retagen%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2025/Tj%C3%A4nstemannaavtalet%20Byggf%C3%B6retagen%20%281%29%20Kollektivavtal.pdf)
   PDF, 814.24 KB
 
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Tja%CC%88nstemannaavtalet%20Byggfo%CC%88retagen%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Tj%C3%A4nstemannaavtalet%20Byggf%C3%B6retagen%20%281%29%20Kollektivavtal.pdf)
   PDF, 918.17 KB
 
 ## Forbund

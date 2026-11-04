@@ -3,16 +3,16 @@
 
 ## 2025
 
-- [Tjänstemän](https://kollektivavtal.github.io/2025/Svenska%20Kyrkan%20%281%29%20Tja%CC%88nstema%CC%88n.pdf)
+- [Tjänstemän](https://kollektivavtal.github.io/2025/Svenska%20Kyrkan%20%281%29%20Tj%C3%A4nstem%C3%A4n.pdf)
   PDF, 785.70 KB
 
-- [Kommunals avtalsområde](https://kollektivavtal.github.io/2025/Svenska%20Kyrkan%20%282%29%20Kommunals%20avtalsomra%CC%8Ade.pdf)
+- [Kommunals avtalsområde](https://kollektivavtal.github.io/2025/Svenska%20Kyrkan%20%282%29%20Kommunals%20avtalsomr%C3%A5de.pdf)
   PDF, 722.62 KB
 
-- [Löneavtal tjänstemän](https://kollektivavtal.github.io/2025/Svenska%20Kyrkan%20%283%29%20Lo%CC%88neavtal%20tja%CC%88nstema%CC%88n.pdf)
+- [Löneavtal tjänstemän](https://kollektivavtal.github.io/2025/Svenska%20Kyrkan%20%283%29%20L%C3%B6neavtal%20tj%C3%A4nstem%C3%A4n.pdf)
   PDF, 181.67 KB
 
-- [Löneavtal Kommunals avtalsområde](https://kollektivavtal.github.io/2025/Svenska%20Kyrkan%20%284%29%20Lo%CC%88neavtal%20Kommunals%20avtalsomra%CC%8Ade.pdf)
+- [Löneavtal Kommunals avtalsområde](https://kollektivavtal.github.io/2025/Svenska%20Kyrkan%20%284%29%20L%C3%B6neavtal%20Kommunals%20avtalsomr%C3%A5de.pdf)
   PDF, 109.40 KB
 
 - [Skogsavtalet](https://kollektivavtal.github.io/2025/Svenska%20Kyrkan%20%285%29%20Skogsavtalet.pdf)
@@ -21,7 +21,7 @@
 
 ## 2023
 
-- [Allmänna bestämmelser](https://kollektivavtal.github.io/2023/Svenska%20Kyrkan%20%281%29%20Allma%CC%88nna%20besta%CC%88mmelser.pdf)
+- [Allmänna bestämmelser](https://kollektivavtal.github.io/2023/Svenska%20Kyrkan%20%281%29%20Allm%C3%A4nna%20best%C3%A4mmelser.pdf)
   PDF, 370.22 KB
 
 

@@ -3,7 +3,7 @@
 
 ## 2025
 
-- [Grå avtalet](https://kollektivavtal.github.io/2025/Almega%20Mediefo%CC%88retagen%20%281%29%20Gra%CC%8A%20avtalet.pdf)
+- [Grå avtalet](https://kollektivavtal.github.io/2025/Almega%20Medief%C3%B6retagen%20%281%29%20Gr%C3%A5%20avtalet.pdf)
   PDF, 1445.02 KB
 
 

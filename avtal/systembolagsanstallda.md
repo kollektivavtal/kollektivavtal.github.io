@@ -3,13 +3,13 @@
 
 ## 2025
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2025/Systembolagsansta%CC%88llda%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2025/Systembolagsanst%C3%A4llda%20%281%29%20Kollektivavtal.pdf)
   PDF, 1234.70 KB
 
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Systembolagsansta%CC%88llda%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Systembolagsanst%C3%A4llda%20%281%29%20Kollektivavtal.pdf)
   PDF, 1901.28 KB
 
 ## Forbund

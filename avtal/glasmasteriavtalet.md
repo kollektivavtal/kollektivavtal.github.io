@@ -3,13 +3,13 @@
 
 ## 2025
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2025/Glasma%CC%88steriavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2025/Glasm%C3%A4steriavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 1274.09 KB
 
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Glasma%CC%88steriavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Glasm%C3%A4steriavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 2639.72 KB
 
 ## Forbund

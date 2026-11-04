@@ -3,7 +3,7 @@
 
 ## 2025
 
-- [Nöjesavtalet](https://kollektivavtal.github.io/2025/No%CC%88jesavtalet.pdf)
+- [Nöjesavtalet](https://kollektivavtal.github.io/2025/N%C3%B6jesavtalet.pdf)
   PDF, 802.25 KB
 
 ## Forbund

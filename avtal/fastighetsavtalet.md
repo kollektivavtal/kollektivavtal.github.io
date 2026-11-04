@@ -15,19 +15,19 @@
 
 ## 2021
 
-- [Tjänstemannaavtal](https://kollektivavtal.github.io/2021/Fastighetsavtalet%20%281%29%20Tja%CC%88nstemannaavtal.pdf)
+- [Tjänstemannaavtal](https://kollektivavtal.github.io/2021/Fastighetsavtalet%20%281%29%20Tj%C3%A4nstemannaavtal.pdf)
   PDF, 5994.08 KB
 
-- [Tillägg om flexpension](https://kollektivavtal.github.io/2021/Fastighetsavtalet%20%282%29%20Tilla%CC%88gg%20om%20flexpension.pdf)
+- [Tillägg om flexpension](https://kollektivavtal.github.io/2021/Fastighetsavtalet%20%282%29%20Till%C3%A4gg%20om%20flexpension.pdf)
   PDF, 475.11 KB
 
 
 ## 2017
 
-- [Tjänstemannaavtal](https://kollektivavtal.github.io/2017/Fastighetsavtalet%20%281%29%20Tja%CC%88nstemannaavtal.pdf)
+- [Tjänstemannaavtal](https://kollektivavtal.github.io/2017/Fastighetsavtalet%20%281%29%20Tj%C3%A4nstemannaavtal.pdf)
   PDF, 2126.12 KB
 
-- [Förhandlingsprotokoll ](https://kollektivavtal.github.io/2017/Fastighetsavtalet%20%282%29%20Fo%CC%88rhandlingsprotokoll%20.pdf)
+- [Förhandlingsprotokoll ](https://kollektivavtal.github.io/2017/Fastighetsavtalet%20%282%29%20F%C3%B6rhandlingsprotokoll%20.pdf)
   PDF, 1159.45 KB
 
 ## Forbund

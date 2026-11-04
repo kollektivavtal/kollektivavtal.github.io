@@ -3,13 +3,13 @@
 
 ## 2025
 
-- [Spårtrafikavtalet](https://kollektivavtal.github.io/2025/Spa%CC%8Artrafikavtalet.pdf)
+- [Spårtrafikavtalet](https://kollektivavtal.github.io/2025/Sp%C3%A5rtrafikavtalet.pdf)
   PDF, 1741.34 KB
 
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Spa%CC%8Artrafikavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Sp%C3%A5rtrafikavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 1519.37 KB
 
 ## Forbund

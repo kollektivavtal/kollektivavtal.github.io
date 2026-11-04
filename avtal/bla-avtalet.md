@@ -3,7 +3,7 @@
 
 ## 2025
 
-- [Blå avtalet](https://kollektivavtal.github.io/2025/Bla%CC%8A%20avtalet.pdf)
+- [Blå avtalet](https://kollektivavtal.github.io/2025/Bl%C3%A5%20avtalet.pdf)
   PDF, 1011.27 KB
 
 ## Forbund

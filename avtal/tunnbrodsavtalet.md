@@ -3,25 +3,25 @@
 
 ## 2025
 
-- [Tunnbrödsavtalet](https://kollektivavtal.github.io/2025/Tunnbro%CC%88dsavtalet.pdf)
+- [Tunnbrödsavtalet](https://kollektivavtal.github.io/2025/Tunnbr%C3%B6dsavtalet.pdf)
   PDF, 340.14 KB
 
 
 ## 2023
 
-- [Tunnbrödsavtalet](https://kollektivavtal.github.io/2023/Tunnbro%CC%88dsavtalet.pdf)
+- [Tunnbrödsavtalet](https://kollektivavtal.github.io/2023/Tunnbr%C3%B6dsavtalet.pdf)
   PDF, 550.29 KB
 
 
 ## 2020
 
-- [Tunnbrödsavtalet](https://kollektivavtal.github.io/2020/Tunnbro%CC%88dsavtalet.pdf)
+- [Tunnbrödsavtalet](https://kollektivavtal.github.io/2020/Tunnbr%C3%B6dsavtalet.pdf)
   PDF, 1165.07 KB
 
 
 ## 2017
 
-- [Tunnbrödsavtalet](https://kollektivavtal.github.io/2017/Tunnbro%CC%88dsavtalet.pdf)
+- [Tunnbrödsavtalet](https://kollektivavtal.github.io/2017/Tunnbr%C3%B6dsavtalet.pdf)
   PDF, 285.96 KB
 
 ## Forbund

@@ -3,7 +3,7 @@
 
 ## 2025
 
-- [Återvinningsavtalet](https://kollektivavtal.github.io/2025/A%CC%8Atervinningsavtalet.pdf)
+- [Återvinningsavtalet](https://kollektivavtal.github.io/2025/%C3%85tervinningsavtalet.pdf)
   PDF, 1835.44 KB
 
 ## Forbund

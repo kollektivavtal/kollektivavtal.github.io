@@ -3,22 +3,22 @@
 
 ## 2025
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2025/Maskinfo%CC%88raravtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2025/Maskinf%C3%B6raravtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 2231.56 KB
 
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Maskinfo%CC%88raravtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Maskinf%C3%B6raravtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 4501.71 KB
 
-- [Förhandlingsprotokoll](https://kollektivavtal.github.io/2023/Maskinfo%CC%88raravtalet%20%282%29%20Fo%CC%88rhandlingsprotokoll.pdf)
+- [Förhandlingsprotokoll](https://kollektivavtal.github.io/2023/Maskinf%C3%B6raravtalet%20%282%29%20F%C3%B6rhandlingsprotokoll.pdf)
   PDF, 2424.01 KB
 
-- [Lönerevision](https://kollektivavtal.github.io/2023/Maskinfo%CC%88raravtalet%20%283%29%20Lo%CC%88nerevision.pdf)
+- [Lönerevision](https://kollektivavtal.github.io/2023/Maskinf%C3%B6raravtalet%20%283%29%20L%C3%B6nerevision.pdf)
   PDF, 138.24 KB
 
-- [Samverkansavtal mellan BYN och TYA gallande utbildning av forare](https://kollektivavtal.github.io/2023/Maskinfo%CC%88raravtalet%20%284%29%20Samverkansavtal%20mellan%20BYN%20och%20TYA%20gallande%20utbildning%20av%20forare.pdf)
+- [Samverkansavtal mellan BYN och TYA gallande utbildning av forare](https://kollektivavtal.github.io/2023/Maskinf%C3%B6raravtalet%20%284%29%20Samverkansavtal%20mellan%20BYN%20och%20TYA%20gallande%20utbildning%20av%20forare.pdf)
   PDF, 163.76 KB
 
 ## Forbund

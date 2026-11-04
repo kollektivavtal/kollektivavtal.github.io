@@ -3,19 +3,19 @@
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Bransch%20E%20-%20Va%CC%8Ard-%20och%20behandlingsverksamhet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Bransch%20E%20-%20V%C3%A5rd-%20och%20behandlingsverksamhet%20%281%29%20Kollektivavtal.pdf)
   PDF, 3001.01 KB
 
 
 ## 2019
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2019/Bransch%20E%20-%20Va%CC%8Ard-%20och%20behandlingsverksamhet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2019/Bransch%20E%20-%20V%C3%A5rd-%20och%20behandlingsverksamhet%20%281%29%20Kollektivavtal.pdf)
   PDF, 2239.05 KB
 
 
 ## 2015
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2015/Bransch%20E%20-%20Va%CC%8Ard-%20och%20behandlingsverksamhet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2015/Bransch%20E%20-%20V%C3%A5rd-%20och%20behandlingsverksamhet%20%281%29%20Kollektivavtal.pdf)
   PDF, 4848.62 KB
 
 ## Forbund

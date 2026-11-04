@@ -3,7 +3,7 @@
 
 ## 2025
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2025/Tja%CC%88nstemannaavtalet%20grafisk%20industri%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2025/Tj%C3%A4nstemannaavtalet%20grafisk%20industri%20%281%29%20Kollektivavtal.pdf)
   PDF, 2688.84 KB
 
 ## Forbund

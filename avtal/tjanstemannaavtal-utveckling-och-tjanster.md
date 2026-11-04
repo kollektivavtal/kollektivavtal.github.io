@@ -3,7 +3,7 @@
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Tja%CC%88nstemannaavtal%20Utveckling%20%26%20Tja%CC%88nster%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Tj%C3%A4nstemannaavtal%20Utveckling%20%26%20Tj%C3%A4nster%20%281%29%20Kollektivavtal.pdf)
   PDF, 2963.61 KB
 
 ## Forbund

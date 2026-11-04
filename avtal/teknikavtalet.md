@@ -6,7 +6,7 @@
 - [IF Metall](https://kollektivavtal.github.io/2025/Teknikavtalet%20%281%29%20IF%20Metall.pdf)
   PDF, 611.97 KB
 
-- [Unionen Sveriges Ingenjörer Ledarna](https://kollektivavtal.github.io/2025/Teknikavtalet%20%282%29%20Unionen%20Sveriges%20Ingenjo%CC%88rer%20Ledarna.pdf)
+- [Unionen Sveriges Ingenjörer Ledarna](https://kollektivavtal.github.io/2025/Teknikavtalet%20%282%29%20Unionen%20Sveriges%20Ingenj%C3%B6rer%20Ledarna.pdf)
   PDF, 3547.66 KB
 
 
@@ -15,7 +15,7 @@
 - [IF Metall](https://kollektivavtal.github.io/2023/Teknikavtalet%20%281%29%20IF%20Metall.pdf)
   PDF, 449.27 KB
 
-- [Unionen : Sveriges Ingenjörer : Ledarna](https://kollektivavtal.github.io/2023/Teknikavtalet%20%282%29%20Unionen%20%3A%20Sveriges%20Ingenjo%CC%88rer%20%3A%20Ledarna.pdf)
+- [Unionen : Sveriges Ingenjörer : Ledarna](https://kollektivavtal.github.io/2023/Teknikavtalet%20%282%29%20Unionen%20%3A%20Sveriges%20Ingenj%C3%B6rer%20%3A%20Ledarna.pdf)
   PDF, 782.00 KB
 
 ## Forbund

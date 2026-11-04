@@ -3,18 +3,18 @@
 
 ## 2025
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2025/Fo%CC%88rsa%CC%88kringsbranschen%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2025/F%C3%B6rs%C3%A4kringsbranschen%20%281%29%20Kollektivavtal.pdf)
   PDF, 736.05 KB
 
-- [Akavia, Sveriges Ingenjörer](https://kollektivavtal.github.io/2025/Fo%CC%88rsa%CC%88kringsbranschen%20%282%29%20Akavia%2C%20Sveriges%20Ingenjo%CC%88rer.pdf)
+- [Akavia, Sveriges Ingenjörer](https://kollektivavtal.github.io/2025/F%C3%B6rs%C3%A4kringsbranschen%20%282%29%20Akavia%2C%20Sveriges%20Ingenj%C3%B6rer.pdf)
   PDF, 786.68 KB
 
 ## 2023
 
-- [Forena](https://kollektivavtal.github.io/2023/Fo%CC%88rsa%CC%88kringsbranchen%20%281%29%20Forena.pdf)
+- [Forena](https://kollektivavtal.github.io/2023/F%C3%B6rs%C3%A4kringsbranchen%20%281%29%20Forena.pdf)
   PDF, 700.31 KB
 
-- [Akavia, Sveriges Ingenjörer](https://kollektivavtal.github.io/2023/Fo%CC%88rsa%CC%88kringsbranchen%20%282%29%20Akavia%2C%20Sveriges%20Ingenjo%CC%88rer.pdf)
+- [Akavia, Sveriges Ingenjörer](https://kollektivavtal.github.io/2023/F%C3%B6rs%C3%A4kringsbranchen%20%282%29%20Akavia%2C%20Sveriges%20Ingenj%C3%B6rer.pdf)
   PDF, 725.38 KB
 
 ## Forbund

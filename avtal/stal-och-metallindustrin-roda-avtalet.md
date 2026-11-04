@@ -3,7 +3,7 @@
 
 ## 2025
 
-- [Stål- och metallindustrin (Röda avtalet)](https://kollektivavtal.github.io/2025/Sta%CC%8Al-%20och%20metallindustrin%20%28Ro%CC%88da%20avtalet%29.pdf)
+- [Stål- och metallindustrin (Röda avtalet)](https://kollektivavtal.github.io/2025/St%C3%A5l-%20och%20metallindustrin%20%28R%C3%B6da%20avtalet%29.pdf)
   PDF, 1060.59 KB
 
 ## Forbund

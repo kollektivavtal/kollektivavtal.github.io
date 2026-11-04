@@ -15,7 +15,7 @@
 
 ## 2017
 
-- [Musikerförbundet](https://kollektivavtal.github.io/2017/Folkets%20Hus%20och%20Parker%20%281%29%20Musikerfo%CC%88rbundet.pdf)
+- [Musikerförbundet](https://kollektivavtal.github.io/2017/Folkets%20Hus%20och%20Parker%20%281%29%20Musikerf%C3%B6rbundet.pdf)
   PDF, 229.29 KB
 
 ## Forbund

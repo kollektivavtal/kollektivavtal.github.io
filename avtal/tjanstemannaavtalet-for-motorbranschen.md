@@ -3,7 +3,7 @@
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Tja%CC%88nstemannaavtalet%20fo%CC%88r%20motorbranschen%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Tj%C3%A4nstemannaavtalet%20f%C3%B6r%20motorbranschen%20%281%29%20Kollektivavtal.pdf)
   PDF, 718.37 KB
 
 ## Forbund

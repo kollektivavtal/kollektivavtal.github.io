@@ -3,7 +3,7 @@
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Personal%20hos%20travtra%CC%88nare%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Personal%20hos%20travtr%C3%A4nare%20%281%29%20Kollektivavtal.pdf)
   PDF, 1264.36 KB
 
 ## Forbund

@@ -3,13 +3,13 @@
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Vatten-%20och%20miljo%CC%88avtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Vatten-%20och%20milj%C3%B6avtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 567.48 KB
 
 
 ## 2020
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2020/Vatten-%20och%20miljo%CC%88avtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2020/Vatten-%20och%20milj%C3%B6avtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 935.55 KB
 
 ## Forbund

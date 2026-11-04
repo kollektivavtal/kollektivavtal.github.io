@@ -3,10 +3,10 @@
 
 ## 2017
 
-- [Förhandlingsprotokoll](https://kollektivavtal.github.io/2017/Lerniaavtalet%20%281%29%20Fo%CC%88rhandlingsprotokoll.pdf)
+- [Förhandlingsprotokoll](https://kollektivavtal.github.io/2017/Lerniaavtalet%20%281%29%20F%C3%B6rhandlingsprotokoll.pdf)
   PDF, 735.85 KB
 
-- [Förhandlingsprotokoll villkorsförändringar vid införandet av Flexpension](https://kollektivavtal.github.io/2017/Lerniaavtalet%20%282%29%20Fo%CC%88rhandlingsprotokoll%20villkorsfo%CC%88ra%CC%88ndringar%20vid%20info%CC%88randet%20av%20Flexpension.pdf)
+- [Förhandlingsprotokoll villkorsförändringar vid införandet av Flexpension](https://kollektivavtal.github.io/2017/Lerniaavtalet%20%282%29%20F%C3%B6rhandlingsprotokoll%20villkorsf%C3%B6r%C3%A4ndringar%20vid%20inf%C3%B6randet%20av%20Flexpension.pdf)
   PDF, 996.36 KB
 
 ## Forbund

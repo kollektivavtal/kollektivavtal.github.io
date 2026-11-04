@@ -9,7 +9,7 @@
 
 ## 2023
 
-- [Tjänstemannaavtal](https://kollektivavtal.github.io/2023/TEKO%20Tja%CC%88nstemannaavtal%20%281%29%20Kollektivavtal.pdf)
+- [Tjänstemannaavtal](https://kollektivavtal.github.io/2023/TEKO%20Tj%C3%A4nstemannaavtal%20%281%29%20Kollektivavtal.pdf)
   PDF, 631.77 KB
 
 ## Forbund

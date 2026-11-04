@@ -3,25 +3,25 @@
 
 ## 2025
 
-- [Spisbrödsavtalet](https://kollektivavtal.github.io/2025/Spisbro%CC%88dsavtalet.pdf)
+- [Spisbrödsavtalet](https://kollektivavtal.github.io/2025/Spisbr%C3%B6dsavtalet.pdf)
   PDF, 270.40 KB
 
 
 ## 2023
 
-- [Spisbrödsavtalet](https://kollektivavtal.github.io/2023/Spisbro%CC%88dsavtalet.pdf)
+- [Spisbrödsavtalet](https://kollektivavtal.github.io/2023/Spisbr%C3%B6dsavtalet.pdf)
   PDF, 598.67 KB
 
 
 ## 2020
 
-- [Spisbrödsavtalet](https://kollektivavtal.github.io/2020/Spisbro%CC%88dsavtalet.pdf)
+- [Spisbrödsavtalet](https://kollektivavtal.github.io/2020/Spisbr%C3%B6dsavtalet.pdf)
   PDF, 441.72 KB
 
 
 ## 2017
 
-- [Spisbrödsavtalet](https://kollektivavtal.github.io/2017/Spisbro%CC%88dsavtalet.pdf)
+- [Spisbrödsavtalet](https://kollektivavtal.github.io/2017/Spisbr%C3%B6dsavtalet.pdf)
   PDF, 265.12 KB
 
 ## Forbund

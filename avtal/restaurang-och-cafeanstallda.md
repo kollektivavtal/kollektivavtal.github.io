@@ -3,7 +3,7 @@
 
 ## 2025
 
-- [Restaurang- och caféanställda](https://kollektivavtal.github.io/2025/Restaurang-%20och%20cafe%CC%81ansta%CC%88llda.pdf)
+- [Restaurang- och caféanställda](https://kollektivavtal.github.io/2025/Restaurang-%20och%20caf%C3%A9anst%C3%A4llda.pdf)
   PDF, 785.54 KB
 
 ## Forbund

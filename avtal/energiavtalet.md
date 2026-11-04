@@ -3,13 +3,13 @@
 
 ## 2025
 
-- [Unionen, Sveriges Ingenjörer, Ledarna, Seko](https://kollektivavtal.github.io/2025/Energiavtalet%20%281%29%20Unionen%2C%20Sveriges%20Ingenjo%CC%88rer%2C%20Ledarna%2C%20Seko.pdf)
+- [Unionen, Sveriges Ingenjörer, Ledarna, Seko](https://kollektivavtal.github.io/2025/Energiavtalet%20%281%29%20Unionen%2C%20Sveriges%20Ingenj%C3%B6rer%2C%20Ledarna%2C%20Seko.pdf)
   PDF, 553.34 KB
 
 
 ## 2023
 
-- [Unionen, Sveriges Ingenjörer, Ledarna, Seko](https://kollektivavtal.github.io/2023/Energiavtalet%20%281%29%20Unionen%2C%20Sveriges%20Ingenjo%CC%88rer%2C%20Ledarna%2C%20Seko.pdf)
+- [Unionen, Sveriges Ingenjörer, Ledarna, Seko](https://kollektivavtal.github.io/2023/Energiavtalet%20%281%29%20Unionen%2C%20Sveriges%20Ingenj%C3%B6rer%2C%20Ledarna%2C%20Seko.pdf)
   PDF, 586.29 KB
 
 

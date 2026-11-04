@@ -3,13 +3,13 @@
 
 ## 2025
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2025/Gro%CC%88na%20Riksavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2025/Gr%C3%B6na%20Riksavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 2894.52 KB
 
-- [Visita hängavtal](https://kollektivavtal.github.io/2025/Gro%CC%88na%20riks%20%281%29%20Visita%20ha%CC%88ngavtal.pdf)
+- [Visita hängavtal](https://kollektivavtal.github.io/2025/Gr%C3%B6na%20riks%20%281%29%20Visita%20h%C3%A4ngavtal.pdf)
   PDF, 969.38 KB
 
-- [Turistsupplementet](https://kollektivavtal.github.io/2025/Gro%CC%88na%20Riksavtalet%20%282%29%20Turistsupplementet.pdf)
+- [Turistsupplementet](https://kollektivavtal.github.io/2025/Gr%C3%B6na%20Riksavtalet%20%282%29%20Turistsupplementet.pdf)
   PDF, 1117.66 KB
 
 ## Forbund

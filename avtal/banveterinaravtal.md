@@ -3,7 +3,7 @@
 
 ## 2020
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2020/Banveterina%CC%88ravtal%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2020/Banveterin%C3%A4ravtal%20%281%29%20Kollektivavtal.pdf)
   PDF, 78.96 KB
 
 ## Forbund

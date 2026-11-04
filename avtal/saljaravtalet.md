@@ -3,7 +3,7 @@
 
 ## 2021
 
-- [Säljaravtalet](https://kollektivavtal.github.io/2021/Sa%CC%88ljaravtalet.pdf)
+- [Säljaravtalet](https://kollektivavtal.github.io/2021/S%C3%A4ljaravtalet.pdf)
   PDF, 753.85 KB
 
 ## Forbund

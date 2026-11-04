@@ -3,7 +3,7 @@
 
 ## 2025
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2025/Installato%CC%88rsfo%CC%88retagen%20Tja%CC%88nstemannaavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2025/Installat%C3%B6rsf%C3%B6retagen%20Tj%C3%A4nstemannaavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 895.42 KB
 
 ## Forbund

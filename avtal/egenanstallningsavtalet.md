@@ -3,7 +3,7 @@
 
 ## 2021
 
-- [Egenanställningsavtalet](https://kollektivavtal.github.io/2021/Egenansta%CC%88llningsavtalet.pdf)
+- [Egenanställningsavtalet](https://kollektivavtal.github.io/2021/Egenanst%C3%A4llningsavtalet.pdf)
   PDF, 156.01 KB
 
 ## Forbund

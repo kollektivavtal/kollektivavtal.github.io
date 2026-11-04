@@ -3,7 +3,7 @@
 
 ## 2020
 
-- [Avtal och bilagor till allmänna anställningsvillkor](https://kollektivavtal.github.io/2020/Sa%CC%8Agverksavtalet%20%281%29%20Avtal%20och%20bilagor%20till%20allma%CC%88nna%20ansta%CC%88llningsvillkor.pdf)
+- [Avtal och bilagor till allmänna anställningsvillkor](https://kollektivavtal.github.io/2020/S%C3%A5gverksavtalet%20%281%29%20Avtal%20och%20bilagor%20till%20allm%C3%A4nna%20anst%C3%A4llningsvillkor.pdf)
   PDF, 1253.67 KB
 
 ## Forbund

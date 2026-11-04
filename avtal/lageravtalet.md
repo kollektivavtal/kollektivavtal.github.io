@@ -8,7 +8,7 @@
 
 ## 2025
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2025/Lageravtalet%20%28Installato%CC%88rsfo%CC%88retagen%29%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2025/Lageravtalet%20%28Installat%C3%B6rsf%C3%B6retagen%29%20%281%29%20Kollektivavtal.pdf)
   PDF, 549.61 KB
 
 ## Forbund

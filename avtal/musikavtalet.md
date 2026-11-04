@@ -6,7 +6,7 @@
 - [Kollektivavtal](https://kollektivavtal.github.io/2023/Musikavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 558.57 KB
 
-- [Lönerevision](https://kollektivavtal.github.io/2023/Musikavtalet%20%282%29%20Lo%CC%88nerevision.pdf)
+- [Lönerevision](https://kollektivavtal.github.io/2023/Musikavtalet%20%282%29%20L%C3%B6nerevision.pdf)
   PDF, 13.33 KB
 
 ## Forbund

@@ -3,31 +3,31 @@
 
 ## 2025
 
-- [Strömmaavtalet](https://kollektivavtal.github.io/2025/Ska%CC%88rga%CC%8Ardsavtalet%20%282%29%20Stro%CC%88mmaavtalet.pdf)
+- [Strömmaavtalet](https://kollektivavtal.github.io/2025/Sk%C3%A4rg%C3%A5rdsavtalet%20%282%29%20Str%C3%B6mmaavtalet.pdf)
   PDF, 693.80 KB
 
-- [Styrsöavtalet](https://kollektivavtal.github.io/2025/Ska%CC%88rga%CC%8Ardsavtalet%20%283%29%20Styrso%CC%88avtalet.pdf)
+- [Styrsöavtalet](https://kollektivavtal.github.io/2025/Sk%C3%A4rg%C3%A5rdsavtalet%20%283%29%20Styrs%C3%B6avtalet.pdf)
   PDF, 777.73 KB
 
 
 ## 2023
 
-- [Kollektivavtal SEKO](https://kollektivavtal.github.io/2023/Ska%CC%88rga%CC%8Ardsavtalet%20%281%29%20Kollektivavtal%20SEKO.pdf)
+- [Kollektivavtal SEKO](https://kollektivavtal.github.io/2023/Sk%C3%A4rg%C3%A5rdsavtalet%20%281%29%20Kollektivavtal%20SEKO.pdf)
   PDF, 1340.57 KB
 
-- [Strömmaavtalet](https://kollektivavtal.github.io/2023/Ska%CC%88rga%CC%8Ardsavtalet%20%282%29%20Stro%CC%88mmaavtalet.pdf)
+- [Strömmaavtalet](https://kollektivavtal.github.io/2023/Sk%C3%A4rg%C3%A5rdsavtalet%20%282%29%20Str%C3%B6mmaavtalet.pdf)
   PDF, 662.24 KB
 
-- [Lönebilaga Strömma](https://kollektivavtal.github.io/2023/Ska%CC%88rga%CC%8Ardsavtalet%20%283%29%20Lo%CC%88nebilaga%20Stro%CC%88mma.pdf)
+- [Lönebilaga Strömma](https://kollektivavtal.github.io/2023/Sk%C3%A4rg%C3%A5rdsavtalet%20%283%29%20L%C3%B6nebilaga%20Str%C3%B6mma.pdf)
   PDF, 38.70 KB
 
-- [Styrsöavtalet](https://kollektivavtal.github.io/2023/Ska%CC%88rga%CC%8Ardsavtalet%20%284%29%20Styrso%CC%88avtalet.pdf)
+- [Styrsöavtalet](https://kollektivavtal.github.io/2023/Sk%C3%A4rg%C3%A5rdsavtalet%20%284%29%20Styrs%C3%B6avtalet.pdf)
   PDF, 649.04 KB
 
-- [Huvudavtal om trygghet, omställning och anställningsskydd](https://kollektivavtal.github.io/2023/Ska%CC%88rga%CC%8Ardsavtalen%20%285%29%20Huvudavtal%20om%20trygghet%2C%20omsta%CC%88llning%20och%20ansta%CC%88llningsskydd.pdf)
+- [Huvudavtal om trygghet, omställning och anställningsskydd](https://kollektivavtal.github.io/2023/Sk%C3%A4rg%C3%A5rdsavtalen%20%285%29%20Huvudavtal%20om%20trygghet%2C%20omst%C3%A4llning%20och%20anst%C3%A4llningsskydd.pdf)
   PDF, 1769.31 KB
 
-- [Lönebilaga Styrsö](https://kollektivavtal.github.io/2023/Ska%CC%88rga%CC%8Ardsavtalet%20%285%29%20Lo%CC%88nebilaga%20Styrso%CC%88.pdf)
+- [Lönebilaga Styrsö](https://kollektivavtal.github.io/2023/Sk%C3%A4rg%C3%A5rdsavtalet%20%285%29%20L%C3%B6nebilaga%20Styrs%C3%B6.pdf)
   PDF, 30.58 KB
 
 ## Forbund

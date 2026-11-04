@@ -15,7 +15,7 @@
 - [Kollektivavtal](https://kollektivavtal.github.io/2023/Byggavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 1900.62 KB
 
-- [Information till hängavtalsbundna företag](https://kollektivavtal.github.io/2023/Byggavtalet%20%282%29%20Information%20till%20ha%CC%88ngavtalsbundna%20fo%CC%88retag.pdf)
+- [Information till hängavtalsbundna företag](https://kollektivavtal.github.io/2023/Byggavtalet%20%282%29%20Information%20till%20h%C3%A4ngavtalsbundna%20f%C3%B6retag.pdf)
   PDF, 256.18 KB
 
 ## Forbund

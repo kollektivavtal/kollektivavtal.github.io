@@ -3,19 +3,19 @@
 
 ## 2025
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2025/Larm-%20och%20sa%CC%88kerhetsteknikavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2025/Larm-%20och%20s%C3%A4kerhetsteknikavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 740.98 KB
 
-- [Tilläggsavtal till Larm- och säkerhetsteknikavtaleta](https://kollektivavtal.github.io/2025/Larm-%20och%20sa%CC%88kerhetsteknikavtalet%20%282%29%20Tilla%CC%88ggsavtal%20till%20Larm-%20och%20sa%CC%88kerhetsteknikavtaleta.pdf)
+- [Tilläggsavtal till Larm- och säkerhetsteknikavtaleta](https://kollektivavtal.github.io/2025/Larm-%20och%20s%C3%A4kerhetsteknikavtalet%20%282%29%20Till%C3%A4ggsavtal%20till%20Larm-%20och%20s%C3%A4kerhetsteknikavtaleta.pdf)
   PDF, 215.69 KB
 
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Larm%20och%20sa%CC%88kerhetsteknikavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Larm%20och%20s%C3%A4kerhetsteknikavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 998.75 KB
 
-- [Förhandlingsprotokoll](https://kollektivavtal.github.io/2023/Larm%20och%20sa%CC%88kerhetsteknikavtalet%20%282%29%20Fo%CC%88rhandlingsprotokoll.pdf)
+- [Förhandlingsprotokoll](https://kollektivavtal.github.io/2023/Larm%20och%20s%C3%A4kerhetsteknikavtalet%20%282%29%20F%C3%B6rhandlingsprotokoll.pdf)
   PDF, 6157.79 KB
 
 ## Forbund

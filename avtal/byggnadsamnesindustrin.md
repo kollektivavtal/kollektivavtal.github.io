@@ -3,7 +3,7 @@
 
 ## 2025
 
-- [Byggnadsämnesindustrin](https://kollektivavtal.github.io/2025/Byggnadsa%CC%88mnesindustrin.pdf)
+- [Byggnadsämnesindustrin](https://kollektivavtal.github.io/2025/Byggnads%C3%A4mnesindustrin.pdf)
   PDF, 934.78 KB
 
 ## Forbund

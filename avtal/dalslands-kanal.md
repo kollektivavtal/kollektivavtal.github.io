@@ -3,7 +3,7 @@
 
 ## 2023
 
-- [Nya löner](https://kollektivavtal.github.io/2023/Dalslands%20Kanal%20%281%29%20Nya%20lo%CC%88ner.pdf)
+- [Nya löner](https://kollektivavtal.github.io/2023/Dalslands%20Kanal%20%281%29%20Nya%20l%C3%B6ner.pdf)
   PDF, 117.62 KB
 
 

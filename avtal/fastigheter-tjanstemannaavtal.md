@@ -3,13 +3,13 @@
 
 ## 2025
 
-- [Fastigheter Tjänstemannaavtal](https://kollektivavtal.github.io/2025/Fastigheter%20Tja%CC%88nstemannaavtal.pdf)
+- [Fastigheter Tjänstemannaavtal](https://kollektivavtal.github.io/2025/Fastigheter%20Tj%C3%A4nstemannaavtal.pdf)
   PDF, 2855.03 KB
 
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Fastigheter%20Tja%CC%88nstemannaavtal%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Fastigheter%20Tj%C3%A4nstemannaavtal%20%281%29%20Kollektivavtal.pdf)
   PDF, 2820.12 KB
 
 ## Forbund

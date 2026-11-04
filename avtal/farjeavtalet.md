@@ -3,13 +3,13 @@
 
 ## 2025
 
-- [Färjeavtalet](https://kollektivavtal.github.io/2025/Fa%CC%88rjeavtalet.pdf)
+- [Färjeavtalet](https://kollektivavtal.github.io/2025/F%C3%A4rjeavtalet.pdf)
   PDF, 2719.99 KB
 
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Fa%CC%88rjeavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/F%C3%A4rjeavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 1771.27 KB
 
 ## Forbund

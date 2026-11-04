@@ -3,7 +3,7 @@
 
 ## 2023
 
-- [Anställningsvillkor](https://kollektivavtal.github.io/2023/Almega%20Utbildning%20%281%29%20Ansta%CC%88llningsvillkor.pdf)
+- [Anställningsvillkor](https://kollektivavtal.github.io/2023/Almega%20Utbildning%20%281%29%20Anst%C3%A4llningsvillkor.pdf)
   PDF, 820.47 KB
 
 ## Forbund

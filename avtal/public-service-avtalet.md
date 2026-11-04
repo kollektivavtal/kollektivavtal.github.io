@@ -3,19 +3,19 @@
 
 ## 2025
 
-- [Journalistförbundet](https://kollektivavtal.github.io/2025/Public%20service-avtalet%20%281%29%20Journalistfo%CC%88rbundet.pdf)
+- [Journalistförbundet](https://kollektivavtal.github.io/2025/Public%20service-avtalet%20%281%29%20Journalistf%C3%B6rbundet.pdf)
   PDF, 1480.41 KB
 
 - [Unionen](https://kollektivavtal.github.io/2025/Public%20service-avtalet%20%282%29%20Unionen.pdf)
   PDF, 1049.14 KB
 
-- [Akademikerförbunden](https://kollektivavtal.github.io/2025/Public%20service-avtalet%20%283%29%20Akademikerfo%CC%88rbunden.pdf)
+- [Akademikerförbunden](https://kollektivavtal.github.io/2025/Public%20service-avtalet%20%283%29%20Akademikerf%C3%B6rbunden.pdf)
   PDF, 1434.54 KB
 
 
 ## 2023
 
-- [Journalistförbundet](https://kollektivavtal.github.io/2023/Public%20service-avtalet%20%281%29%20Journalistfo%CC%88rbundet.pdf)
+- [Journalistförbundet](https://kollektivavtal.github.io/2023/Public%20service-avtalet%20%281%29%20Journalistf%C3%B6rbundet.pdf)
   PDF, 1559.87 KB
 
 

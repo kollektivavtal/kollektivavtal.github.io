@@ -3,7 +3,7 @@
 
 ## 2023
 
-- [Stoppmöbelindustriavtalet](https://kollektivavtal.github.io/2023/Stoppmo%CC%88belindustriavtalet.pdf)
+- [Stoppmöbelindustriavtalet](https://kollektivavtal.github.io/2023/Stoppm%C3%B6belindustriavtalet.pdf)
   PDF, 915.36 KB
 
 ## Forbund

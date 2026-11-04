@@ -3,7 +3,7 @@
 
 ## 2023
 
-- [Hushållningssällskap Husdjursföreningar Tjänstemän](https://kollektivavtal.github.io/2023/Husha%CC%8Allningssa%CC%88llskap%20Husdjursfo%CC%88reningar%20Tja%CC%88nstema%CC%88n.pdf)
+- [Hushållningssällskap Husdjursföreningar Tjänstemän](https://kollektivavtal.github.io/2023/Hush%C3%A5llningss%C3%A4llskap%20Husdjursf%C3%B6reningar%20Tj%C3%A4nstem%C3%A4n.pdf)
   PDF, 1739.26 KB
 
 ## Forbund

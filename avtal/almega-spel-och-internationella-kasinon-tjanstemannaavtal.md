@@ -3,16 +3,16 @@
 
 ## 2025
 
-- [Avtalsförändringar](https://kollektivavtal.github.io/2025/Almega%20Spel%20och%20Internationella%20Kasinon%20Tja%CC%88nstemannaavtal%20%281%29%20Avtalsfo%CC%88ra%CC%88ndringar.pdf)
+- [Avtalsförändringar](https://kollektivavtal.github.io/2025/Almega%20Spel%20och%20Internationella%20Kasinon%20Tj%C3%A4nstemannaavtal%20%281%29%20Avtalsf%C3%B6r%C3%A4ndringar.pdf)
   PDF, 179.34 KB
 
-- [Förhandlingsprotokoll](https://kollektivavtal.github.io/2025/Almega%20Spel%20och%20Internationella%20Kasinon%20Tja%CC%88nstemannaavtal%20%282%29%20Fo%CC%88rhandlingsprotokoll.pdf)
+- [Förhandlingsprotokoll](https://kollektivavtal.github.io/2025/Almega%20Spel%20och%20Internationella%20Kasinon%20Tj%C3%A4nstemannaavtal%20%282%29%20F%C3%B6rhandlingsprotokoll.pdf)
   PDF, 962.63 KB
 
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Almega%20Spel%20och%20Internationella%20Kasinon%20Tja%CC%88nstemannaavtal%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/Almega%20Spel%20och%20Internationella%20Kasinon%20Tj%C3%A4nstemannaavtal%20%281%29%20Kollektivavtal.pdf)
   PDF, 2557.58 KB
 
 ## Forbund

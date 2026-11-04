@@ -3,7 +3,7 @@
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/TeknikGrossisternas%20Arbetsgivarefo%CC%88rening%20Tja%CC%88nstemanna-%20och%20Arbetsledareavtal%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/TeknikGrossisternas%20Arbetsgivaref%C3%B6rening%20Tj%C3%A4nstemanna-%20och%20Arbetsledareavtal%20%281%29%20Kollektivavtal.pdf)
   PDF, 887.98 KB
 
 ## Forbund

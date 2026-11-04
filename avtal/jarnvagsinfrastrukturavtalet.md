@@ -3,40 +3,40 @@
 
 ## 2025
 
-- [Järnvägsinfrastrukturavtalet](https://kollektivavtal.github.io/2025/Ja%CC%88rnva%CC%88gsinfrastrukturavtalet.pdf)
+- [Järnvägsinfrastrukturavtalet](https://kollektivavtal.github.io/2025/J%C3%A4rnv%C3%A4gsinfrastrukturavtalet.pdf)
   PDF, 1789.80 KB
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2025/Ja%CC%88rnva%CC%88gsinfrastrukturavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2025/J%C3%A4rnv%C3%A4gsinfrastrukturavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 1789.80 KB
 
 
 ## 2023
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2023/Ja%CC%88rnva%CC%88gsinfrastrukturavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2023/J%C3%A4rnv%C3%A4gsinfrastrukturavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 1683.64 KB
 
 
 ## 2020
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2020/Ja%CC%88rnva%CC%88gsinfrastrukturavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2020/J%C3%A4rnv%C3%A4gsinfrastrukturavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 1596.70 KB
 
-- [Förhandlingsprotokoll](https://kollektivavtal.github.io/2020/Ja%CC%88rnva%CC%88gsinfrastrukturavtalet%20%282%29%20Fo%CC%88rhandlingsprotokoll.pdf)
+- [Förhandlingsprotokoll](https://kollektivavtal.github.io/2020/J%C3%A4rnv%C3%A4gsinfrastrukturavtalet%20%282%29%20F%C3%B6rhandlingsprotokoll.pdf)
   PDF, 2252.65 KB
 
 
 ## 2017
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2017/Ja%CC%88rnva%CC%88gsinfrastrukturavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2017/J%C3%A4rnv%C3%A4gsinfrastrukturavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 700.59 KB
 
-- [Förhandlingsprotokoll](https://kollektivavtal.github.io/2017/Ja%CC%88rnva%CC%88gsinfrastrukturavtalet%20%282%29%20Fo%CC%88rhandlingsprotokoll.pdf)
+- [Förhandlingsprotokoll](https://kollektivavtal.github.io/2017/J%C3%A4rnv%C3%A4gsinfrastrukturavtalet%20%282%29%20F%C3%B6rhandlingsprotokoll.pdf)
   PDF, 1665.92 KB
 
 
 ## 2013
 
-- [Järnvägsinfrastrukturavtalet](https://kollektivavtal.github.io/2013/Ja%CC%88rnva%CC%88gsinfrastrukturavtalet.pdf)
+- [Järnvägsinfrastrukturavtalet](https://kollektivavtal.github.io/2013/J%C3%A4rnv%C3%A4gsinfrastrukturavtalet.pdf)
   PDF, 3616.94 KB
 
 ## Forbund

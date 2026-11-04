@@ -3,34 +3,34 @@
 
 ## 2025
 
-- [Hamnbogseravtalet - nautiskt befäl](https://kollektivavtal.github.io/2025/Bogseravtalen%20%281%29%20Hamnbogseravtalet%20-%20nautiskt%20befa%CC%88l.pdf)
+- [Hamnbogseravtalet - nautiskt befäl](https://kollektivavtal.github.io/2025/Bogseravtalen%20%281%29%20Hamnbogseravtalet%20-%20nautiskt%20bef%C3%A4l.pdf)
   PDF, 132.94 KB
 
-- [Pråmbogseravtalet - nautiskt befäl](https://kollektivavtal.github.io/2025/Bogseravtalen%20%282%29%20Pra%CC%8Ambogseravtalet%20-%20nautiskt%20befa%CC%88l.pdf)
+- [Pråmbogseravtalet - nautiskt befäl](https://kollektivavtal.github.io/2025/Bogseravtalen%20%282%29%20Pr%C3%A5mbogseravtalet%20-%20nautiskt%20bef%C3%A4l.pdf)
   PDF, 92.81 KB
 
-- [Hamnbogseravtalet - tekniskt befäl](https://kollektivavtal.github.io/2025/Bogseravtalen%20%283%29%20Hamnbogseravtalet%20-%20tekniskt%20befa%CC%88l.pdf)
+- [Hamnbogseravtalet - tekniskt befäl](https://kollektivavtal.github.io/2025/Bogseravtalen%20%283%29%20Hamnbogseravtalet%20-%20tekniskt%20bef%C3%A4l.pdf)
   PDF, 156.02 KB
 
 
 ## 2024
 
-- [Lönebilaga hamnbogseravtalet nautiskt befäl](https://kollektivavtal.github.io/2024/Bogseravtalen%20%281%29%20Lo%CC%88nebilaga%20hamnbogseravtalet%20nautiskt%20befa%CC%88l.pdf)
+- [Lönebilaga hamnbogseravtalet nautiskt befäl](https://kollektivavtal.github.io/2024/Bogseravtalen%20%281%29%20L%C3%B6nebilaga%20hamnbogseravtalet%20nautiskt%20bef%C3%A4l.pdf)
   PDF, 80.76 KB
 
-- [Lönebilaga hamnbogseravtalet tekniskt befäl](https://kollektivavtal.github.io/2024/Bogseravtalen%20%282%29%20Lo%CC%88nebilaga%20hamnbogseravtalet%20tekniskt%20befa%CC%88l.pdf)
+- [Lönebilaga hamnbogseravtalet tekniskt befäl](https://kollektivavtal.github.io/2024/Bogseravtalen%20%282%29%20L%C3%B6nebilaga%20hamnbogseravtalet%20tekniskt%20bef%C3%A4l.pdf)
   PDF, 54.29 KB
 
 
 ## 2023
 
-- [Hamnbogseravtalet - nautiskt befäl](https://kollektivavtal.github.io/2023/Bogseravtalen%20%281%29%20Hamnbogseravtalet%20-%20nautiskt%20befa%CC%88l.pdf)
+- [Hamnbogseravtalet - nautiskt befäl](https://kollektivavtal.github.io/2023/Bogseravtalen%20%281%29%20Hamnbogseravtalet%20-%20nautiskt%20bef%C3%A4l.pdf)
   PDF, 133.86 KB
 
-- [Pråmbogseravtalet - nautiskt befäl](https://kollektivavtal.github.io/2023/Bogseravtalen%20%282%29%20Pra%CC%8Ambogseravtalet%20-%20nautiskt%20befa%CC%88l.pdf)
+- [Pråmbogseravtalet - nautiskt befäl](https://kollektivavtal.github.io/2023/Bogseravtalen%20%282%29%20Pr%C3%A5mbogseravtalet%20-%20nautiskt%20bef%C3%A4l.pdf)
   PDF, 93.88 KB
 
-- [Hamnbogseravtalet - tekniskt befäl](https://kollektivavtal.github.io/2023/Bogseravtalen%20%283%29%20Hamnbogseravtalet%20-%20tekniskt%20befa%CC%88l.pdf)
+- [Hamnbogseravtalet - tekniskt befäl](https://kollektivavtal.github.io/2023/Bogseravtalen%20%283%29%20Hamnbogseravtalet%20-%20tekniskt%20bef%C3%A4l.pdf)
   PDF, 156.95 KB
 
 ## Forbund

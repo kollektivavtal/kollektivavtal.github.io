@@ -3,13 +3,13 @@
 
 ## 2023
 
-- [Nya löner](https://kollektivavtal.github.io/2023/Go%CC%88ta%20Kanal%20%281%29%20Nya%20lo%CC%88ner.pdf)
+- [Nya löner](https://kollektivavtal.github.io/2023/G%C3%B6ta%20Kanal%20%281%29%20Nya%20l%C3%B6ner.pdf)
   PDF, 111.82 KB
 
 
 ## 2020
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2020/Go%CC%88ta%20Kanal%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2020/G%C3%B6ta%20Kanal%20%281%29%20Kollektivavtal.pdf)
   PDF, 2720.94 KB
 
 ## Forbund

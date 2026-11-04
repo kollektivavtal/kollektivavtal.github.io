@@ -3,10 +3,10 @@
 
 ## 2025
 
-- [Anställningsvillkor](https://kollektivavtal.github.io/2025/TechSverige%20Telekom%20%281%29%20Ansta%CC%88llningsvillkor.pdf)
+- [Anställningsvillkor](https://kollektivavtal.github.io/2025/TechSverige%20Telekom%20%281%29%20Anst%C3%A4llningsvillkor.pdf)
   PDF, 10645.07 KB
 
-- [Löneavtal](https://kollektivavtal.github.io/2025/TechSverige%20Telekom%20%282%29%20Lo%CC%88neavtal.pdf)
+- [Löneavtal](https://kollektivavtal.github.io/2025/TechSverige%20Telekom%20%282%29%20L%C3%B6neavtal.pdf)
   PDF, 1959.86 KB
 
 

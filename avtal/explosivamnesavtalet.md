@@ -3,7 +3,7 @@
 
 ## 2025
 
-- [Explosivämnesavtalet](https://kollektivavtal.github.io/2025/Explosiva%CC%88mnesavtalet.pdf)
+- [Explosivämnesavtalet](https://kollektivavtal.github.io/2025/Explosiv%C3%A4mnesavtalet.pdf)
   PDF, 2327.84 KB
 
 ## Forbund

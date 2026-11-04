@@ -3,7 +3,7 @@
 
 ## 2023
 
-- [Tjänstemän inom civilsamhället](https://kollektivavtal.github.io/2023/Tja%CC%88nstema%CC%88n%20inom%20civilsamha%CC%88llet.pdf)
+- [Tjänstemän inom civilsamhället](https://kollektivavtal.github.io/2023/Tj%C3%A4nstem%C3%A4n%20inom%20civilsamh%C3%A4llet.pdf)
   PDF, 616.64 KB
 
 ## Forbund

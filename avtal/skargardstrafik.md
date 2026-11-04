@@ -3,7 +3,7 @@
 
 ## 2025
 
-- [Skärgårdstrafik](https://kollektivavtal.github.io/2025/Ska%CC%88rga%CC%8Ardstrafik.pdf)
+- [Skärgårdstrafik](https://kollektivavtal.github.io/2025/Sk%C3%A4rg%C3%A5rdstrafik.pdf)
   PDF, 2129.45 KB
 
 ## Forbund

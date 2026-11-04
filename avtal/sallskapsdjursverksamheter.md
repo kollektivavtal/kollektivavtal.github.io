@@ -3,7 +3,7 @@
 
 ## 2025
 
-- [Sällskapsdjursverksamheter](https://kollektivavtal.github.io/2025/Sa%CC%88llskapsdjursverksamheter.pdf)
+- [Sällskapsdjursverksamheter](https://kollektivavtal.github.io/2025/S%C3%A4llskapsdjursverksamheter.pdf)
   PDF, 2815.65 KB
 
 ## Forbund

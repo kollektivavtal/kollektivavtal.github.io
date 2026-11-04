@@ -3,19 +3,19 @@
 
 ## 2025
 
-- [Kollektivavtal](https://kollektivavtal.github.io/2025/Ma%CC%8Aleriavtalet%20%281%29%20Kollektivavtal.pdf)
+- [Kollektivavtal](https://kollektivavtal.github.io/2025/M%C3%A5leriavtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 2145.69 KB
 
 
 ## 2023
 
-- [Kollektivavtal för måleriyrket](https://kollektivavtal.github.io/2023/Ma%CC%8Aleriavtalet%20%281%29%20Kollektivavtal%20fo%CC%88r%20ma%CC%8Aleriyrket.pdf)
+- [Kollektivavtal för måleriyrket](https://kollektivavtal.github.io/2023/M%C3%A5leriavtalet%20%281%29%20Kollektivavtal%20f%C3%B6r%20m%C3%A5leriyrket.pdf)
   PDF, 1372.32 KB
 
 
 ## 2020
 
-- [Kollektivavtal för måleriyrket](https://kollektivavtal.github.io/2020/Ma%CC%8Aleriavtalet%20%281%29%20Kollektivavtal%20fo%CC%88r%20ma%CC%8Aleriyrket.pdf)
+- [Kollektivavtal för måleriyrket](https://kollektivavtal.github.io/2020/M%C3%A5leriavtalet%20%281%29%20Kollektivavtal%20f%C3%B6r%20m%C3%A5leriyrket.pdf)
   PDF, 2701.03 KB
 
 ## Forbund

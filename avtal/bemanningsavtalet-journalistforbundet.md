@@ -3,7 +3,7 @@
 
 ## 2023
 
-- [Bemanningsavtalet (Journalistförbundet)](https://kollektivavtal.github.io/2023/Bemanningsavtalet%20%28Journalistfo%CC%88rbundet%29.pdf)
+- [Bemanningsavtalet (Journalistförbundet)](https://kollektivavtal.github.io/2023/Bemanningsavtalet%20%28Journalistf%C3%B6rbundet%29.pdf)
   PDF, 1586.92 KB
 
 ## Forbund

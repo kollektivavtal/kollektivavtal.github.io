@@ -3,7 +3,7 @@
 
 ## 2024
 
-- [Lönebilaga nautiker](https://kollektivavtal.github.io/2024/Europaavtalet%20%281%29%20Lo%CC%88nebilaga%20nautiker.pdf)
+- [Lönebilaga nautiker](https://kollektivavtal.github.io/2024/Europaavtalet%20%281%29%20L%C3%B6nebilaga%20nautiker.pdf)
   PDF, 69.66 KB
 
 

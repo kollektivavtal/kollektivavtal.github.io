@@ -6,7 +6,7 @@
 - [Kollektivavtal](https://kollektivavtal.github.io/2025/Fastigo%20K-avtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 502.07 KB
 
-- [Löneavtal](https://kollektivavtal.github.io/2025/Fastigo%20K-avtalet%20%282%29%20Lo%CC%88neavtal.pdf)
+- [Löneavtal](https://kollektivavtal.github.io/2025/Fastigo%20K-avtalet%20%282%29%20L%C3%B6neavtal.pdf)
   PDF, 277.17 KB
 
 
@@ -15,7 +15,7 @@
 - [Kollektivavtal](https://kollektivavtal.github.io/2023/Fastigo%20K-avtalet%20%281%29%20Kollektivavtal.pdf)
   PDF, 718.09 KB
 
-- [Löneavtal](https://kollektivavtal.github.io/2023/Fastigo%20K-avtalet%20%282%29%20Lo%CC%88neavtal.pdf)
+- [Löneavtal](https://kollektivavtal.github.io/2023/Fastigo%20K-avtalet%20%282%29%20L%C3%B6neavtal.pdf)
   PDF, 294.13 KB
 
 ## Forbund
